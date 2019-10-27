@@ -3,7 +3,7 @@ structure (TrainingDescriptionResults) {
   property (tName) {
     description ()
     type (TName)
-    min (Optional) max (One)
+    min (Optional) max (Many)
   }
   property (tNo) {
     description ()

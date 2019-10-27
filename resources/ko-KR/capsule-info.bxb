@@ -1,7 +1,7 @@
 capsule-info {
   display-name (마이트)
   developer-name (muscleloss)
-  icon-asset (icon.png)
+  icon-asset (myTrainer_logo.png)
   dispatch-name (마이트)
   dispatch-aliases {
     alias (마잍)
