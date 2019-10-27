@@ -32,5 +32,8 @@ result-view {
 		conversation-driver {
 			template ("팔굽혀펴기 알려줘")
 		}
+		conversation-driver {
+			template ("#{value(result[0].tName)}")
+		}
 	}
 }

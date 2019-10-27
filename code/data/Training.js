@@ -37,7 +37,7 @@ module.exports = [ //Exercise Table
     cnt: "4",
     refURL: "https://terms.naver.com/entry.nhn?docId=938899&cid=51030&categoryId=51030",
     youtubeURL: "https://www.youtube.com/watch?v=BytxCXiTSFA",
-    imgURL: "https://gitlab.com/Yoowoobin/img_tmp_wb/raw/master/Free_imgURL/T02_img.jpg",
+    imgURL: "https://gitlab.com/Yoowoobin/img_tmp_wb/raw/master/Free_imgURL/T02_img.jpeg",
   },
   {
     tName: "니 푸쉬업",
@@ -56,7 +56,7 @@ module.exports = [ //Exercise Table
     cnt: "3",
     refURL: "https://terms.naver.com/entry.nhn?docId=938849&cid=51030&categoryId=51030", //text
     youtubeURL: "https://www.youtube.com/watch?v=_WmFOB2ek64",
-    imgURL: "https://gitlab.com/Yoowoobin/img_tmp_wb/raw/master/Free_imgURL/T03_img.jpg",
+    imgURL: "https://gitlab.com/Yoowoobin/img_tmp_wb/raw/master/Free_imgURL/T03_img.jpeg",
   },
   {
     tName: "크런치",
@@ -132,7 +132,7 @@ module.exports = [ //Exercise Table
     cnt: "3",
     refURL: "https://terms.naver.com/entry.nhn?docId=2099784&cid=51030&categoryId=51030",
     youtubeURL: "https://www.youtube.com/watch?v=oYiBDWhmrX8&feature=youtu.be&t=49",
-    imgURL: "https://gitlab.com/Yoowoobin/img_tmp_wb/raw/master/Free_imgURL/T07_img.jpg",
+    imgURL: "https://gitlab.com/Yoowoobin/img_tmp_wb/raw/master/Free_imgURL/T07_img.jpeg",
   },
   {
     tName: "브릿지",
@@ -151,7 +151,7 @@ module.exports = [ //Exercise Table
     cnt: "4",
     refURL: "https://terms.naver.com/entry.nhn?docId=2099777&cid=51030&categoryId=51030", //text
     youtubeURL: "https://www.youtube.com/watch?v=IDu9N1yi4ts&feature=youtu.be&t=246",
-    imgURL: "https://gitlab.com/Yoowoobin/img_tmp_wb/raw/master/Free_imgURL/T08_img.jpg",
+    imgURL: "https://gitlab.com/Yoowoobin/img_tmp_wb/raw/master/Free_imgURL/T08_img.jpeg",
   },
   {
     tName: "사이드 플랭크",
@@ -189,7 +189,7 @@ module.exports = [ //Exercise Table
     cnt: "6",
     refURL: "https://terms.naver.com/entry.nhn?docId=938918&cid=51030&categoryId=51030",
     youtubeURL: "https://youtu.be/YAx6UUJgUzE",
-    imgURL: "https://gitlab.com/Yoowoobin/img_tmp_wb/raw/master/Free_imgURL/T10_img.jpg",
+    imgURL: "https://gitlab.com/Yoowoobin/img_tmp_wb/raw/master/Free_imgURL/T10_img.jpeg",
   },
   {
     tName: "플랭크",
@@ -284,7 +284,7 @@ module.exports = [ //Exercise Table
     cnt: "3",
     refURL: "https://blog.naver.com/ukhyeon8529/221553588396", //text
     youtubeURL: "https://youtu.be/a4Rby9O7Q6s",
-    imgURL: "https://gitlab.com/Yoowoobin/img_tmp_wb/raw/master/Free_imgURL/T15_img.jpg",
+    imgURL: "https://gitlab.com/Yoowoobin/img_tmp_wb/raw/master/Free_imgURL/T15_img.jpeg",
   },
   {
     tName: "오블리크 크런치",
@@ -322,7 +322,7 @@ module.exports = [ //Exercise Table
     cnt: "3",
     refURL: "https://terms.naver.com/entry.nhn?docId=2099781&cid=51030&categoryId=51030", //text
     youtubeURL: "https://youtu.be/d41wTj5bROk?t=18",
-    imgURL: "https://gitlab.com/Yoowoobin/img_tmp_wb/raw/master/Free_imgURL/T17_img.jpg",
+    imgURL: "https://gitlab.com/Yoowoobin/img_tmp_wb/raw/master/Free_imgURL/T17_img.jpeg",
   },
   {
     tName: "푸쉬업",
@@ -398,7 +398,7 @@ module.exports = [ //Exercise Table
     cnt: "4",
     refURL: "https://www.youtube.com/watch?v=LxWBJOPqwFM", //text
     youtubeURL: "https://www.youtube.com/watch?v=LxWBJOPqwFM",
-    imgURL: "https://gitlab.com/Yoowoobin/img_tmp_wb/raw/master/Free_imgURL/T21_img.jpg",
+    imgURL: "https://gitlab.com/Yoowoobin/img_tmp_wb/raw/master/Free_imgURL/T21_img.jpeg",
   },
   {
     tName: "가벼운 유산소 운동",
@@ -418,5 +418,6 @@ module.exports = [ //Exercise Table
     refURL: "https://terms.naver.com/entry.nhn?docId=939083&cid=51036&categoryId=51036", //text
     youtubeURL: "https://www.youtube.com/watch?v=E_WBjEFXzKU",
     imgURL: "https://gitlab.com/Yoowoobin/img_tmp_wb/raw/master/Free_imgURL/T22_img.jpg",
-  }
+  },
+
 ]
