@@ -1,0 +1,33 @@
+layout-macro-def(count-result) {
+	params {
+		param (countresult) {
+			type (TrainingCountResults)
+			min (Required) max (One)
+		}
+	}
+	
+	content {
+		title-area {
+			halign (Center)
+			slot1 {
+				text {
+					style (Title_S)
+					value {
+						template ("한 세트당 권장 횟수는 #{value(countresult.perSet)}회 입니다.")
+					}
+					
+				}
+			}
+			slot2 {
+        single-line{
+				text {
+					style (Title_M)
+					value {
+						template ("#{value(countresult.perSet)}회 카운트 시작합니다.")
+					}
+        }
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,10 @@
+train (t-t913wrvtwt0wz5645bsyv7o09) {
+  utterance ("[g:RoutineCountResults] (복근)[v:RName] 운동 시작해줘")
+  plan (Y2Bm0CzISaxML8ovzUvRyy0tTs5JTU/MzNMLyi8tycxLdQaKlwSlFpfmlBQzqBJWmpmXziCNQ5lfYm4qAxMDIxAzAElGBhBggmAA)
+  last-modified (1571923255859)
+}
+train (t-tz8r4b73kmf26x2klj6bej6ys) {
+  utterance ("[g:TrainingDescriptionResults] (스쿼트)[v:TName] 알려줘")
+  plan (Y2BmMCjISaxML8ovzUvRyy0tTs5JTU/MzNMLKQKSmXnpLqnFyUWZBSWZ+XlBqcWlOSXFDJpE62CQxqHULzE3lYGJgRGIGYAkIwMIMEEwAA==)
+  last-modified (1572168537040)
+}

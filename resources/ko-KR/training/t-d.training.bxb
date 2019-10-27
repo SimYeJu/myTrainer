@@ -1,0 +1,5 @@
+train (t-deejbd190ihcsdnpod19ol5j7) {
+  utterance ("[g:TrainingCountResults] (런지)[v:TName] 카운팅해줘")
+  plan (Y2Bm0CrISaxML8ovzUvRyy0tTs5JTU/MzNMLKQKSmXnpzkCJkqDU4tKckmIGZSLUMkjjUOSXmJvKwMTACMQMQJKRAQSYIBgA)
+  last-modified (1571923226589)
+}
