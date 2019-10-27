@@ -24,10 +24,5 @@ endpoints {
       accepted-inputs (tName, requireSet)
       local-endpoint (TrainingCount.js)
     }
-
-    action-endpoint (LaunchWeb) {
-      accepted-inputs (youtubeURL)
-      local-endpoint (LaunchWeb.js)
-    }
   }
 }

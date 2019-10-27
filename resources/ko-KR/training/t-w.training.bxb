@@ -1,5 +1,5 @@
 train (t-w7pou0676xqxrf2iw5g6i1e5u) {
-  utterance ("[g:TrainingCount] (스쿼트)[v:TName] 카운팅해줘")
-  plan (Y2Bm0CrISaxML8ovzUvRyy0tTs5JTU/MzNMLKQKSmXnpzkCJkqDU4tKckmIGZSLUMkjjUOSXmJvKwMTACMQMQJKRAQSgfAA=)
-  last-modified (1571923325922)
+  utterance ("[g:TrainingCountResults] (스쿼트)[v:TName] 카운팅해줘")
+  plan (Y2Bm0CrISaxML8ovzUvRyy0tTs5JTU/MzNMLKQKSmXnpzkCJkqDU4tKckmIGZSLUMkjjUOSXmJvKwMTACMQMQJKRAQSYIBgA)
+  last-modified (1571923259339)
 }

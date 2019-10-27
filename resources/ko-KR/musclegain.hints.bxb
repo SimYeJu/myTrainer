@@ -2,7 +2,7 @@ hints {
   uncategorized {
     utterance (스쿼트 알려줘)
     utterance (스쿼트 하는 법 알려줘)
-    utterance (나 스쿼트 할래)
+    utterance (스쿼트 방법 알려줘)
     utterance (스쿼트 설명해줘)
   }
 }
