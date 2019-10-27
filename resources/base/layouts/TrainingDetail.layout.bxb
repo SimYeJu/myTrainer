@@ -1,0 +1,81 @@
+layout-macro-def(training-detail) {
+	params {
+		param (trainingresult) {
+			type (TrainingDescriptionResults)
+			min (Required) max (One)
+		}
+	}
+
+	content {
+		layout {  // this macro returns a "layout"
+			section {
+				content {
+					image {
+						url ("#{value(trainingresult.imgURL)}")
+					}
+					divider
+				}
+			}
+			section {
+				content {
+					title-area {
+						halign (Start)
+						slot1 {
+							text {
+								style (Title_S)
+								value {
+									template ("#{value(trainingresult.tName)}")
+								}
+							}
+						}
+					}
+					paragraph ("설명: #{value(trainingresult.tDesc)}") {
+						style (Detail_L)
+					}
+					title-area {
+						slot2 {
+							single-line {
+								text {
+									value {
+										template ("주의 사항: #{value(trainingresult.caution)}")
+									}
+									style (Detail_M)
+								}
+							}
+						}
+					}
+					input-cell {
+						label {
+							template ("운동 부위, 클릭시 운동방법으로 이동합니다.")
+						}
+						value {
+							template ("#{value(trainingresult.tPart)}")
+						}
+						on-click {
+							intent {
+								goal { @context (Continuation) TrainingDescription }
+							}
+						}
+					}
+					paragraph ("시간당 소모 칼로리 : #{value(trainingresult.kcal)}") {
+						style (Detail_M_Soft)
+					}
+					input-cell {
+						label {
+							template ("관련 영상")
+						}
+						value {
+							template ("#{value(trainingresult.youtubeURL)}")
+						}
+						on-click {
+							intent {
+								goal: LaunchWeb
+								value :	YoutubeURL (trainingresult.youtubeURL)
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,5 @@
+train (t-hlzohrikyzp5mj4gy43msfdx8) {
+  utterance ("[g:TrainingDescription] (팔굽혀펴기)[v:TName] 가르쳐줘")
+  plan (Y2BmMCjISaxML8ovzUvRyy0tTs5JTU/MzNMLKQKSmXnpLqnFyUWZBSWZ+XlBqcWlOSXFDJpE62CQxqHULzE3lYGJgRGIGYAkIwMIQPkA)
+  last-modified (1571923265167)
+}

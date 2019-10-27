@@ -1,0 +1,3 @@
+text (RTime) {
+  description (해당 루틴의 시간대)
+}

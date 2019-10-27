@@ -1,0 +1,89 @@
+structure (TrainingDescriptionResults) {
+  description (운동 찾기 action의 output 객체)
+  property (tName) {
+    description ()
+    type (TName)
+    min (Optional) max (One)
+  }
+  property (tNo) {
+    description ()
+    type (TNo)
+    min (Optional) max (One)
+  }
+  property (tDesc) {
+    description ()
+    type (TDesc)
+    min (Optional) max (One)
+  }
+  property (caution) {
+    description ()
+    type (Caution)
+    min (Optional) max (One)
+  }
+  property (perSet) {
+    description ()
+    type (PerSet)
+    min (Optional) max (One)
+  }
+  property (setNum) {
+    description ()
+    type (SetNum)
+    min (Optional) max (One)
+  }
+  property (hasDir) {
+    description ()
+    type (HasDir)
+    min (Optional) max (One)
+  }
+  property (tPart) {
+    description ()
+    type (TPart)
+    min (Optional) max (Many)
+  }
+  property (tMuscle) {
+    description ()
+    type (TMuscle)
+    min (Optional) max (Many)
+  }
+  property (hasRoutine) {
+    description ()
+    type (HasRoutine)
+    min (Optional) max (One)
+  }
+  property (tTime) {
+    description ()
+    type (TTime)
+    min (Optional) max (Many)
+  }
+  property (day) {
+    description ()
+    type (Day)
+    min (Optional) max (One)
+  }
+  property (kcal) {
+    description ()
+    type (Kcal)
+    min (Optional) max (One)
+  }
+  property (cnt) {
+    description ()
+    type (Cnt)
+    min (Optional) max (One)
+  }
+  property (refURL) {
+    description ()
+    type (RefURL)
+    min (Optional) max (One)
+  }
+  property (youtubeURL) {
+    description ()
+    type (YoutubeURL)
+    min (Optional) max (One)
+  }
+  property (imgURL) {
+    description ()
+    type (ImgURL)
+    min (Optional) max (One)
+  }
+  
+}

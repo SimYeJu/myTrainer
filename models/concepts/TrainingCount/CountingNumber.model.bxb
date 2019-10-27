@@ -1,0 +1,3 @@
+integer (CountingNumber) {
+  description (카운팅 반환값)
+}

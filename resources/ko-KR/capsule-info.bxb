@@ -1,0 +1,19 @@
+capsule-info {
+  display-name (musclegain)
+  developer-name (muscleloss)
+  icon-asset (icon.png)
+  dispatch-name (근이득)
+  dispatch-aliases {
+    alias (그니득)
+    alias (근 이득)
+  }
+  search-keywords {
+    keyword (운동명)
+    keyword (루틴명)
+    keyword (카운트)
+  }
+  description ("30일 운동 루틴을 제공해줍니다.")
+  website-url (https://github.com/ssafy679/musclegain.git)
+  terms-url (https://github.com/ssafy679/musclegain.git)
+  privacy-policy-url(http://my-capsule.com/privacy-policy)
+}

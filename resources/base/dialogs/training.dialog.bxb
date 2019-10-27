@@ -1,0 +1,4 @@
+dialog (Result) {
+  match: TrainingDescriptionResults
+  template-macro (description_di)
+}

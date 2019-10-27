@@ -1,0 +1,53 @@
+layout-macro-def(training-result) {
+	params {
+		param (trainingresult) {
+			type (TrainingDescriptionResults)
+			min (Required) max (One)
+		}
+	}
+	
+	content {
+		thumbnail-card {
+			title-area {
+				halign (Start)
+				slot1 {
+					text {
+						style (Title_S)
+						value {
+							template ("#{value(trainingresult.tName)}")
+						}
+					}
+				}
+				slot2 {
+					single-line {
+						text {
+							value {
+								template ("운동 부위: #{value(trainingresult.tPart)}")
+							}
+							style (Detail_L)
+						}
+					}
+				}
+				slot3 {
+					single-line {
+						text {
+							value {
+								template ("시간당 소모 칼로리: #{value(trainingresult.kcal)}")
+							}
+							style (Detail_M_Soft)
+						}
+					}
+				}
+			}
+			on-click {
+				intent {
+					goal: TrainingDescriptionResults
+				}
+			}
+			image-url {
+				template ("#{value(trainingresult.imgURL)}")
+			}
+			image-position (End)
+		}
+	}
+}

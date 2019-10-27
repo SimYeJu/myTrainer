@@ -1,0 +1,5 @@
+train (t-vux7ygy7m34tbf9h29py9uo5h) {
+  utterance ("[g:TrainingDescription] (런지)[v:TName] 알려줘")
+  plan (Y2BmMCjISaxML8ovzUvRyy0tTs5JTU/MzNMLKQKSmXnpLqnFyUWZBSWZ+XlBqcWlOSXFDJpE62CQxqHULzE3lYGJgRGIGYAkIwMIQPkA)
+  last-modified (1571923313279)
+}

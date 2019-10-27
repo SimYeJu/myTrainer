@@ -1,0 +1,32 @@
+structure (RoutineRecommendResults) {
+  description (요청 루틴 결과를 보여주는 action의 output 객체)
+  
+  property (rName) {
+    type (RName)
+    min (Optional) max (One)
+  }
+  property (rNo){
+    type(RNo)
+    min (Optional) max (One)
+  }
+  property (rTime){
+    type(RTime)
+    min (Optional) max (One)
+  }
+  property (rEffect){
+    type(REffect)
+    min (Optional) max (One)
+  }
+  property (formula){
+    type(Formula)
+    min (Optional) max (Many)
+  }
+  property (refURL){
+    type(RefURL)
+    min (Optional) max (One)
+  }
+  property (youtubeURL){
+    type(YoutubeURL)
+    min (Optional) max (One)
+  }
+}

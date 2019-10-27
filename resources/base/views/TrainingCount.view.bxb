@@ -1,0 +1,38 @@
+result-view {
+	match: TrainingCountResults (result) {
+		from-output: TrainingCount
+	}
+	
+	
+	message {
+		template ("#{value(result.tName)} 한세트 카운트를 시작합니다."){
+      speech ("#{value(result.speech)}")
+    }
+	}
+	
+	// render {
+	// 	if (size(result) > 1) {
+	// 		list-of (result) {
+	// 			has-details (true)
+	// 			where-each (item) {
+	// 				layout-macro (training-result) {
+	// 					param (trainingresult) {
+	// 						expression (item)
+	// 					}
+	// 				}
+	// 			}
+	// 		}
+	// 	} else-if (size(result) == 1) {
+	// 		layout-macro (training-detail) {
+  //       param (trainingresult) {
+  //         expression (result)
+  //       }
+  //     }
+	// 	}
+	// }
+	conversation-drivers {
+		conversation-driver {
+			template ("팔굽혀펴기 알려줘")
+		}
+	}
+}

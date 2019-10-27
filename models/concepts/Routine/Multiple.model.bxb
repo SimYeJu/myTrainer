@@ -1,0 +1,3 @@
+decimal (Multiple) {
+  description (트레이닝의 세트에 곱할 배수)
+}

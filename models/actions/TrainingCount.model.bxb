@@ -1,0 +1,16 @@
+action (TrainingCount) {
+  description (특정 운동 세트 카운트 해주기) //주석, 이 함수가 무슨일 하는지 설명
+  collect {
+    input (tName) { //js에서 쓰일 변수명
+      type (TName) //concept에서 쓰일 변수명
+      min (Required) max (One)
+    }
+
+     input (requireSet) { //js에서 쓰일 변수명
+      type (RequireSet) //concept에서 쓰일 변수명
+      min (Optional) max (One)
+    }
+  }
+  type (Search)
+  output (TrainingCountResults) //아웃풋 컨셉 (따로 정의해줘야함)
+}

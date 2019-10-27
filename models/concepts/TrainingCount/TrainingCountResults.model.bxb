@@ -1,0 +1,59 @@
+structure (TrainingCountResults) {
+  description (특정 운동 카운트하기 action의 output 객체)
+  
+property (tName) {
+    description ()
+    type (TName)
+    min (Optional) max (One)
+  }
+  property (tNo) {
+    description ()
+    type (TNo)
+    min (Optional) max (One)
+  }
+  property (perSet) {
+    description ()
+    type (PerSet)
+    min (Optional) max (One)
+  }
+  property (setNum) {
+    description ()
+    type (SetNum)
+    min (Optional) max (One)
+  }
+  property (hasDir) {
+    description ()
+    type (HasDir)
+    min (Optional) max (One)
+  }
+  property (day) {
+    description ()
+    type (Day)
+    min (Optional) max (One)
+  }
+  property (kcal) {
+    description ()
+    type (Kcal)
+    min (Optional) max (One)
+  }
+  property (cnt) {
+    description ()
+    type (Cnt)
+    min (Optional) max (One)
+  }
+   property (requireSet) {
+    description ()
+    type (RequireSet)
+    min (Optional) max (One)
+  }
+  property (countingNumber) {
+    description ()
+    type (CountingNumber)
+    min (Optional) max (One)
+  }
+  property (speech){
+    description ()
+    type (Speech)
+    min (Optional) max (One)
+  }
+}

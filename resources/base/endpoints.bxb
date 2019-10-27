@@ -1,0 +1,33 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (TrainingDescription) {
+      accepted-inputs (tName)
+      local-endpoint (TrainingDescription.js)
+    }
+
+    action-endpoint (RoutineRecommend) {
+      accepted-inputs (rName)
+      local-endpoint (RoutineRecommend.js)
+    }
+
+    action-endpoint (RoutineCounting) {
+      accepted-inputs (rName)
+      local-endpoint (routineCounting.js)
+    }
+
+    action-endpoint (TimeTrainingRecommend) {
+      accepted-inputs (time)
+      local-endpoint (TimeTrainingRecommend.js)
+    }
+
+    action-endpoint (TrainingCount) {
+      accepted-inputs (tName, requireSet)
+      local-endpoint (TrainingCount.js)
+    }
+
+    action-endpoint (LaunchWeb) {
+      accepted-inputs (youtubeURL)
+      local-endpoint (LaunchWeb.js)
+    }
+  }
+}

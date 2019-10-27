@@ -1,0 +1,5 @@
+template-macro-def (description_di) {
+  content {
+    template ("__TEMPLATE_TEXT__")
+  }
+}

@@ -1,0 +1,6 @@
+train (t-ck2eq6ag22vfahravdu5mvnei) {
+  utterance ("[g:TrainingCountResults] (스쿼트)[v:TName] 할래")
+  plan (Y2Bm0C5JzYtPK8pMzUsp1sstLU7OSU1PzMzTCykCkpl56c75pXklQanFpTklxQwqxChmkMGlyi8xN5WBiYERiBmAJCMDCDBBMAA=)
+  enabled (false)
+  last-modified (1572170724199)
+}

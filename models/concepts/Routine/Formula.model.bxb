@@ -1,0 +1,15 @@
+structure (Formula) {
+  description (해당 루틴의 공식)
+  property (tNo) {
+    type (TNo)
+    min (Optional) max (One)
+  }
+   property (multiple) {
+    type (Multiple)
+    min (Optional) max (One)
+  }
+   property (seq) {
+    type (Seq)
+    min (Optional) max (One)
+  }
+}
