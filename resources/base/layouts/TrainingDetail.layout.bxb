@@ -49,12 +49,13 @@ layout-macro-def(training-detail) {
 										template ("추가 설명")
 									}
 									value {
-										template ("#{value(trainingresult.refURL)}")
+										template ("관련자료 보러가기")
+										// template ("#{value(trainingresult.refURL)}")
 									}
 									// on-click {
 									// 	intent {
-									// 		goal: LaunchWeb2
-									// 		value :	RefURL (trainingresult.refURL)
+									// 		goal: LaunchWeb
+									// 		value :	YoutubeURL (trainingresult.refURL)
 									// 	}
 									// }
 								}
@@ -66,12 +67,14 @@ layout-macro-def(training-detail) {
 										template ("관련 영상")
 									}
 									value {
-										template ("#{value(trainingresult.youtubeURL)}")
+										// template ("#{value(trainingresult.youtubeURL)}")
+										template("유튜브 영상 보기")
 									}
 									on-click {
 										intent {
 											goal: LaunchWeb
-											value :	YoutubeURL (trainingresult.youtubeurl)
+											value : $expr(trainingresult.youtubeURL)
+											//value :	YoutubeURL (trainingresult.youtubeURL)
 										}
 									}
 								}

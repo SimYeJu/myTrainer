@@ -35,7 +35,7 @@ module.exports.function = function routineRecommend (rName) {
   }
   const rData = require("./data/Routine.js");
   const tData = require("./data/Training.js");
-  rName.replace(/(\s*)/g, "");
+  rName=rName.replace(/(\s*)/g, "");
   rName=rName.replace("운동","");
 
   

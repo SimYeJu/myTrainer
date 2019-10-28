@@ -5,16 +5,9 @@ result-view {
 
    message {
       // template ("운동 루틴에 대한 정보입니다.")
-      // template ("하하")
       template ("#{value(result.rDesc)}")
    }
-  //  render {
-  //    layout-macro (routine-description){
-  //       param(routinedescript){
-  //         expression (result)
-  //       }
-  //     }
-  //  }
+
    render {
       // layout-macro (routine-description){
       //   param(routinedescript){

@@ -20,13 +20,8 @@ endpoints {
       local-endpoint (TrainingDetail.js)
     }
 
-    action-endpoint (TimeTrainingRecommend) {
-      accepted-inputs (time)
-      local-endpoint (TimeTrainingRecommend.js)
-    }
-
     action-endpoint (LaunchWeb){
-      accepted-inputs (youtubeURL)
+      accepted-inputs (youtubeurl)
       local-endpoint (LaunchWeb.js)
     }
 
@@ -34,10 +29,5 @@ endpoints {
       accepted-inputs (tName, requireSet)
       local-endpoint (TrainingCount.js)
     }
-
-    action-endpoint (LaunchWeb){
-     accepted-inputs (youtubeURL)
-     local-endpoint (LaunchWeb.js)
-   }
   }
 }
