@@ -1,0 +1,10 @@
+train (t-bk4szuzmf2v7oqofn1zwx60jp) {
+  utterance ("[g:ten_friends.myTrainer.RoutineRecommendResults] (코어)[v:ten_friends.myTrainer.RName] 운동 알려줘")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572252025067)
+}
+train (t-bti3nnc32ilkq4qe4ayplzyvu) {
+  utterance ("[g:RoutineRecommendResults] (뱃살빼는)[v:RName] 운동 추천해줘")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572255466633)
+}

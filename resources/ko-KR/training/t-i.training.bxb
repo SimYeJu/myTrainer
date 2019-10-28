@@ -1,0 +1,10 @@
+train (t-ictbxxh13rtfufeu7enzxfjjx) {
+  utterance ("[g:RoutineRecommend] (다이어트)[v:RName]에 좋은 운동 알려줘")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1572252285180)
+}
+train (t-ivrltms9587kf5f2tj8tvjafj) {
+  utterance ("[g:ten_friends.myTrainer.RoutineRecommend] (서서할 수 있는)[v:ten_friends.myTrainer.RName] 운동 혹시 있어?")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1572253807426)
+}

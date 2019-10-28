@@ -14,8 +14,9 @@ module.exports.function = function trainingDescription (tName) {
   let results = [];
   
   /*------ 실행 ------*/
+  tName = tName.replace(/(\s*)/g, "") ;
   for(let i = 0; i < tData.length; i++) {
-    if(tData[i].tName.match(tName)) {
+    if(tData[i].tName.replace(/(\s*)/g, "").match(tName)) {
       results.push(tData[i]);
     }
   }

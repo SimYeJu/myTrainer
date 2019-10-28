@@ -1,9 +1,0 @@
-structure (RoutineCountResults) {
-	description (카운팅 테스트)
-	
-	property (perSet) {
-		description ()
-		type (PerSet)
-		min (Optional) max (One)
-	}
-}

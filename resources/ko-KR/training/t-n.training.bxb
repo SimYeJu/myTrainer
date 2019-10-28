@@ -1,0 +1,5 @@
+train (t-n9e073i10zkldjlmymfsxu5hw) {
+  utterance ("[g:RoutineRecommend] (어깨 넓어지는)[v:RName] 운동이 있을까?")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1572253581433)
+}

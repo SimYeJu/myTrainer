@@ -10,18 +10,13 @@ endpoints {
       local-endpoint (RoutineRecommend.js)
     }
 
-    action-endpoint (RoutineCounting) {
-      accepted-inputs (rName)
-      local-endpoint (routineCounting.js)
-    }
-
     action-endpoint (TrainingDetail){
       accepted-inputs (tName)
       local-endpoint (TrainingDetail.js)
     }
 
     action-endpoint (LaunchWeb){
-      accepted-inputs (youtubeurl)
+      accepted-inputs (youtubeurl, refurl)
       local-endpoint (LaunchWeb.js)
     }
 

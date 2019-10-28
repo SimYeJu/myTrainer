@@ -1,0 +1,10 @@
+train (t-joe8ypps8gi6q595tnyegs52p) {
+  utterance ("[g:RoutineRecommend] (땀나는)[v:RName] 운동 할래")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1572253739249)
+}
+train (t-jyzixh3ln9yz4xilbm4oz1ns4) {
+  utterance ("[g:RoutineRecommend] (10분 동안)[v:RName] 할만한 운동 추천해줘")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1572252518140)
+}

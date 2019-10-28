@@ -28,9 +28,9 @@ result-view {
       }
 		}
 	}
-	conversation-drivers {
-		conversation-driver {
-			template ("팔굽혀펴기 알려줘")
-		}
-	}
+	// conversation-drivers {
+	// 	conversation-driver {
+	// 		template ("팔굽혀펴기 알려줘")
+	// 	}
+	// }
 }

@@ -1,0 +1,5 @@
+train (t-mvx8jbmqfntdtytxilapkkbo5) {
+  utterance ("[g:RoutineRecommend] (아침)[v:RName]에 할 수 있는 운동 루틴이 뭐가 있을까?")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1572252677569)
+}

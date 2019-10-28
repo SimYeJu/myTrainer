@@ -1,7 +1,7 @@
 result-view{
   match :  YoutubeResult(this)
   
-  message("유튜브 링크")
+  message("링크 이동합니다.")
   render{
     layout{
       section{
@@ -20,7 +20,7 @@ result-view{
             slot3{
               single-line{
                 text{
-                  value("유튜브 동영상 링크로 넘어갑니다.")
+                  value("링크로 넘어갑니다.")
                   style (Detail_L_Soft)
                 }
               }

@@ -4,7 +4,11 @@ action (LaunchWeb) {
   collect {
     input (youtubeurl) {
       type (YoutubeURL)
-      min (Required) max (One)
+      min (Optional) max (One)
+    }
+    input (refurl) {
+      type (RefURL)
+      min (Optional) max (One)
     }
   }
   output (YoutubeResult){

@@ -31,7 +31,7 @@ layout-macro-def(training-detail) {
 									template ("운동하러가기")
 								}
 								value {
-									template ("한세트 카운트 시작")
+									template ("세트 카운트 시작")
 								}
 								on-click {
 									intent {
@@ -49,17 +49,16 @@ layout-macro-def(training-detail) {
 										template ("추가 설명")
 									}
 									value {
-										template ("관련자료 보러가기")
-										// template ("#{value(trainingresult.refURL)}")
+										template ("관련자료")
 									}
-									// on-click {
-									// 	intent {
-									// 		goal: LaunchWeb
-									// 		value :	YoutubeURL (trainingresult.refURL)
-									// 	}
-									// }
+									on-click {
+										intent {
+											goal: LaunchWeb
+											value :	$expr(trainingresult.refURL)
+											// value :	youtubeurl (trainingresult.refURL)
+										}
+									}
 								}
-
 						}
 						right{
 								input-cell {
@@ -67,8 +66,7 @@ layout-macro-def(training-detail) {
 										template ("관련 영상")
 									}
 									value {
-										// template ("#{value(trainingresult.youtubeURL)}")
-										template("유튜브 영상 보기")
+										template("유튜브 영상")
 									}
 									on-click {
 										intent {
@@ -78,7 +76,6 @@ layout-macro-def(training-detail) {
 										}
 									}
 								}
-
 						}
 					}
 					
@@ -112,20 +109,6 @@ layout-macro-def(training-detail) {
 					}
 					paragraph ("시간당 소모 칼로리 : #{value(trainingresult.kcal)}") {
 						style (Detail_M_Soft)
-					}
-						input-cell {
-						label {
-							template ("관련 영상")
-						}
-						value {
-							template ("#{value(trainingresult.youtubeURL)}")
-						}
-						on-click {
-							intent {
-								goal: LaunchWeb
-								value :	YoutubeURL (trainingresult.youtubeURL)
-							}
-						}
 					}
 					
 				}
