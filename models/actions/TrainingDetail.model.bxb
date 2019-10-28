@@ -1,0 +1,11 @@
+action (TrainingDetail) {
+  description (사용자 입력 운동 찾아 주기)
+  type (Search)
+  collect {
+    input (tName) {
+      type (TName)
+      min (Optional) max (One)
+    }
+  }
+  output (TrainingDescriptionResults)
+}

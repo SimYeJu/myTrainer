@@ -2,13 +2,8 @@ layout-macro-def(rountine-result) {
    params {
       param (routineresult) {
          type (RoutineRecommendResults)
-        //  type(TrainingDescriptionResults)
          min (Required) max (One)
       }
-      // param(trainingresult){
-      //   type (TrainingDescriptionResults)
-      //   min (Required) max(One)
-      // }
    }
    content {
       thumbnail-card {
@@ -34,11 +29,12 @@ layout-macro-def(rountine-result) {
             }
          }
          
-         on-click {    
+         on-click {
             intent {
+               
                //goal: RoutineRecommendResults
                goal: TrainingDescriptionResults
-               route:TrainingDescription
+               route: TrainingDetail
                //route:TrainingDescription
                //value: TName(routineresult.tName)
                //value:$expr(routineresult.tName)

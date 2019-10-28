@@ -4,12 +4,32 @@ result-view {
    }
 
    message {
-      template ("운동 루틴에 대한 정보입니다.")
+      // template ("운동 루틴에 대한 정보입니다.")
+      // template ("하하")
+      template ("#{value(result.rDesc)}")
    }
-   
+  //  render {
+  //    layout-macro (routine-description){
+  //       param(routinedescript){
+  //         expression (result)
+  //       }
+  //     }
+  //  }
    render {
-      if (size(result) >= 1) {        
-         list-of (result) {
+      // layout-macro (routine-description){
+      //   param(routinedescript){
+      //     expression (result)
+      //   }
+      // }
+      if (size(result) >= 1) {
+        // layout{
+        //   section {
+        //     title{
+        //       template ("#{value(result.rDesc)}")
+        //     }
+        //   }
+        // }
+        list-of (result) {
             has-details (true)
             where-each (item) {
                layout-macro (rountine-result) {
@@ -18,7 +38,7 @@ result-view {
                   }
                }
             }
-         }
+         }         
       }
       // } else-if(size(result)==1) {
       //   layout-macro (training-detail){

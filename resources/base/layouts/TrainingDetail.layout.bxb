@@ -14,18 +14,6 @@ layout-macro-def(training-detail) {
 					image {
 						url ("#{value(trainingresult.imgURL)}")
 					}
-					// divider
-					// title-area {
-					// 	halign (Center)
-					// 	slot1 {
-					// 		text {
-					// 			style (Title_L)
-					// 			value {
-					// 				template ("#{value(trainingresult.tName)}")
-					// 			}
-					// 		}
-					// 	}
-					// }
 					split-input-cell {
 						left {
 							input-cell {
@@ -34,8 +22,6 @@ layout-macro-def(training-detail) {
 								}								
 								value {
 									template ("#{value(trainingresult.tName)}")
-									
-									
 								}
 							}
 						}

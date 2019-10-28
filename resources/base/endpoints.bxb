@@ -15,6 +15,11 @@ endpoints {
       local-endpoint (routineCounting.js)
     }
 
+    action-endpoint (TrainingDetail){
+      accepted-inputs (tName)
+      local-endpoint (TrainingDetail.js)
+    }
+
     action-endpoint (TimeTrainingRecommend) {
       accepted-inputs (time)
       local-endpoint (TimeTrainingRecommend.js)
