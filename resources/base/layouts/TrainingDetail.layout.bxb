@@ -84,7 +84,7 @@ layout-macro-def(training-detail) {
 									on-click {
 										intent {
 											goal: LaunchWeb
-											value :	YoutubeURL (trainingresult.youtubeURL)
+											value :	YoutubeURL (trainingresult.youtubeurl)
 										}
 									}
 								}

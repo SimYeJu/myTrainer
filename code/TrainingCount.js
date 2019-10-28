@@ -31,13 +31,31 @@ module.exports.function = function trainingCount(tName, requireSet) {
     let speech = "";
 
     var Num = ["하나", "둘", "셋", "넷", "다섯", "여섯", "일곱", "여덟", "아홉", "열",
-      "열하나", "열둘", "열셋", "열넷", "열다섯", "열여섯", "열일곱", "열여덟", "열아홉", "스물", "스물하나"];
-    speech += tname + "한세트 카운트 시작합니다.。。。";
+      "열하나", "열둘", "열셋", "열넷", "열다섯", "열여섯", "열일곱", "열여덟", "열아홉", "스물", "스물하나",
+      "스물둘", "스물셋", "스물넷" , "스물다섯", "스물여섯", "스물일곱", "스물여덟", "스물아홉", "서른",
+      "서른하나", "서른둘", "서른셋", "서른넷", "서른다섯", "서른여섯", "서른일곱", "서른여덟", "서른아홉", "마흔",
+      "마흔하나", "마흔둘", "마흔셋", "마흔넷", "마흔다섯", "마흔여섯", "마흔일곱", "마흔여덟", "마흔아홉", "쉰", 
+      "쉰하나", "쉰둘", "쉰셋", "쉰넷", "쉰다섯", "쉰여섯", "쉰일곱", "쉰여덟", "쉰아홉", "예순",
+      "예순하나", "예순둘", "예순셋", "예순넷", "예순다섯", "예순여섯", "예순일곱", "예순여덟", "예순아홉", "일흔"];
+    speech += tname + "한 세트 카운트 시작합니다.。。。";
+
+    /*
+    。
+    1개 == 2개 => 0.75초
+    3개 => 1.5초
+    4개 => 2.25초
+    5개 => 3초
+    6개 => 3.75초
+    7개 => 4.5초
+    8개 => 
+    */
+    let calcnt = Math.ceil(Number(((cnt/0.75)+1)));
+    console.log("calcnt : " + calcnt);
 
     if (hasdir.match("true")) {
       for (var i = 0; i < perset; i++) {
         speech += Num[i];
-        for (var j = 0; j < cnt; j++) {
+        for (var j = 0; j < calcnt; j++) {
           speech += "。"
         }
       }
@@ -46,7 +64,7 @@ module.exports.function = function trainingCount(tName, requireSet) {
       
       for (var i = 0; i < perset; i++) {
         speech += Num[i];
-        for (var j = 0; j < cnt; j++) {
+        for (var j = 0; j < calcnt; j++) {
           speech += "。"
         }
       }
@@ -56,7 +74,7 @@ module.exports.function = function trainingCount(tName, requireSet) {
 
       for (var i = 0; i < perset; i++) {
         speech += Num[i];
-        for (var j = 0; j < cnt; j++) {
+        for (var j = 0; j < calcnt; j++) {
           speech += "。"
         }
       }
@@ -68,7 +86,6 @@ module.exports.function = function trainingCount(tName, requireSet) {
     }
     speech += "。。。한세트가 완료되었습니다. 일분정도 휴식을 취해주세요."
 
-    if(cnt)
     console.log("speech" + speech);
 
     // let speech = "둘。둘。둘。둘。둘。둘。둘。둘。둘。둘。둘。둘。둘。둘。";

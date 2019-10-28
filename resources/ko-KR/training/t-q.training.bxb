@@ -3,3 +3,8 @@ train (t-q3f5ve7bqcu8uwwvj42qqbho3) {
   plan (Y2Bm0CzISaxML8ovzUvRyy0tTs5JTU/MzNMLyi8tycxLdQaKlwSlFpfmlBQzqBJWmpmXziCNQ5lfYm4qAxMDIxAzAElGBhCA8gE=)
   last-modified (1571923280745)
 }
+train (t-ql0366bllfrdvhidk47iyj19b) {
+  utterance ("[g:TrainingDescriptionResults] (런지)[v:TName]가 뭐야")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572235161604)
+}
