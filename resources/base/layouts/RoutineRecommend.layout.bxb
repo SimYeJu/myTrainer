@@ -1,0 +1,55 @@
+layout-macro-def(rountine-result) {
+   params {
+      param (routineresult) {
+         //type (RoutineRecommendResults)
+         type(TrainingDescriptionResults)
+         min (Required) max (One)
+      }
+      // param(trainingresult){
+      //   type (TrainingDescriptionResults)
+      //   min (Required) max(One)
+      // }
+   }
+   content {
+      thumbnail-card {
+         title-area {
+            halign (Start)
+            slot1 {
+               text {
+                  style (Title_S)
+                  value {
+                     template ("운동 종류 : #{value(routineresult.tName)}")
+                  }
+               }
+            }
+            slot2 {
+               single-line {
+                  text {
+                     value {
+                        template ("세트당 횟수 : #{value(routineresult.setNum)}")
+                     }
+                     style (Detail_L)
+                  }
+               }
+            }
+         }
+         
+         on-click {    
+            intent {
+               //goal: RoutineRecommendResults
+               //goal: TrainingDescription
+               //route: TrainingDescription
+               goal: TrainingDescriptionResults
+               //route:TrainingDescription
+               //value: TName(routineresult.tName)
+               //value:$expr(routineresult.tName)
+               value:$expr(routineresult.tName)
+            }
+         }
+         image-url {
+            template ("#{value(routineresult.imgURL)}")
+         }
+         image-position (End)
+      }
+   }
+}

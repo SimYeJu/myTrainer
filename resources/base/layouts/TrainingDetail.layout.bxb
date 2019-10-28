@@ -64,12 +64,12 @@ layout-macro-def(training-detail) {
 									value {
 										template ("#{value(trainingresult.refURL)}")
 									}
-									on-click {
-										intent {
-											goal: LaunchWeb2
-											value :	RefURL (trainingresult.refURL)
-										}
-									}
+									// on-click {
+									// 	intent {
+									// 		goal: LaunchWeb2
+									// 		value :	RefURL (trainingresult.refURL)
+									// 	}
+									// }
 								}
 
 						}

@@ -7,5 +7,6 @@ action (RoutineRecommend) {
     }
   }
   type (Search)
-  output (RoutineRecommendResults)
+  //output (RoutineRecommendResults)
+  output(TrainingDescriptionResults)
 }

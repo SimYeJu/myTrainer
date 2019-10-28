@@ -10,7 +10,7 @@ module.exports.function = function trainingCount(tName, requireSet) {
     console.log("tName is null")
   } else {
     for (var i = 0; i < tData.length; i++) {
-      if (tData[i].tName == tName) {
+      if (tData[i].tName.match(tName)) {
         idx = i;
         break;
       }

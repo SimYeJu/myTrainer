@@ -1,32 +1,93 @@
 structure (RoutineRecommendResults) {
-  description (요청 루틴 결과를 보여주는 action의 output 객체)
-  
-  property (rName) {
-    type (RName)
+  description (루틴명+트레이닝객체)
+  property(rName){
+    description ()
+    type(RName)
+    min (Required) max (One)
+  }
+  property (tName) {
+    description ()
+    type (TName)
     min (Optional) max (One)
   }
-  property (rNo){
-    type(RNo)
+  property (tNo) {
+    description ()
+    type (TNo)
     min (Optional) max (One)
   }
-  property (rTime){
-    type(RTime)
+  property (tDesc) {
+    description ()
+    type (TDesc)
     min (Optional) max (One)
   }
-  property (rEffect){
-    type(REffect)
+  property (caution) {
+    description ()
+    type (Caution)
     min (Optional) max (One)
   }
-  property (formula){
-    type(Formula)
+  property (perSet) {
+    description ()
+    type (PerSet)
+    min (Optional) max (One)
+  }
+  property (setNum) {
+    description ()
+    type (SetNum)
+    min (Optional) max (One)
+  }
+  property (hasDir) {
+    description ()
+    type (HasDir)
+    min (Optional) max (One)
+  }
+  property (tPart) {
+    description ()
+    type (TPart)
     min (Optional) max (Many)
   }
-  property (refURL){
-    type(RefURL)
+  property (tMuscle) {
+    description ()
+    type (TMuscle)
+    min (Optional) max (Many)
+  }
+  property (hasRoutine) {
+    description ()
+    type (HasRoutine)
     min (Optional) max (One)
   }
-  property (youtubeURL){
-    type(YoutubeURL)
+  property (tTime) {
+    description ()
+    type (TTime)
+    min (Optional) max (Many)
+  }
+  property (day) {
+    description ()
+    type (Day)
+    min (Optional) max (One)
+  }
+  property (kcal) {
+    description ()
+    type (Kcal)
+    min (Optional) max (One)
+  }
+  property (cnt) {
+    description ()
+    type (Cnt)
+    min (Optional) max (One)
+  }
+  property (refURL) {
+    description ()
+    type (RefURL)
+    min (Optional) max (One)
+  }
+  property (youtubeURL) {
+    description ()
+    type (YoutubeURL)
+    min (Optional) max (One)
+  }
+  property (imgURL) {
+    description ()
+    type (ImgURL)
     min (Optional) max (One)
   }
 }
