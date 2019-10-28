@@ -419,5 +419,4 @@ module.exports = [ //Exercise Table
     youtubeURL: "https://www.youtube.com/watch?v=E_WBjEFXzKU",
     imgURL: "https://gitlab.com/Yoowoobin/img_tmp_wb/raw/master/Free_imgURL/T22_img.jpg",
   },
-
 ]
