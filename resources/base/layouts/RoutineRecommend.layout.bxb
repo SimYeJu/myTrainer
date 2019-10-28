@@ -31,10 +31,10 @@ layout-macro-def(rountine-result) {
          
          on-click {
             intent {
-               
                //goal: RoutineRecommendResults
+              //  goal: TrainingDescriptionResults
                goal: TrainingDescriptionResults
-               route: TrainingDetail
+              //  route: TrainingDetail
                //route:TrainingDescription
                //value: TName(routineresult.tName)
                //value:$expr(routineresult.tName)

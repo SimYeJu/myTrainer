@@ -8,20 +8,8 @@ result-view {
       template ("#{value(result.rDesc)}")
    }
 
-   render {
-      // layout-macro (routine-description){
-      //   param(routinedescript){
-      //     expression (result)
-      //   }
-      // }
-      if (size(result) >= 1) {
-        // layout{
-        //   section {
-        //     title{
-        //       template ("#{value(result.rDesc)}")
-        //     }
-        //   }
-        // }
+   render {  
+      // if (size(result) >= 1) {
         list-of (result) {
             has-details (true)
             where-each (item) {
@@ -32,13 +20,6 @@ result-view {
                }
             }
          }         
-      }
-      // } else-if(size(result)==1) {
-      //   layout-macro (training-detail){
-      //     param(trainingresult){
-      //       expression (result)
-      //     }
-      //   }
       // }
    }
   //  conversation-drivers {

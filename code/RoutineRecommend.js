@@ -48,6 +48,7 @@ module.exports.function = function routineRecommend (rName) {
   for(var i=0; i<rData.length; i++){
     console.log('rData rName is :'+rData[i].rName);
     if(rData[i].rName==rName){
+      console.log('i추가 :'+i);
       rIdx = i;
       break;
     }
@@ -55,7 +56,9 @@ module.exports.function = function routineRecommend (rName) {
   //루틴 키워드로 검색
   if(rIdx == -1){
     for(var i=0; i<rData.length; i++){
+       console.log('rData rName is :'+rData[i].rName);
       if(rData[i].keywords.includes(rName)){
+        console.log('i추가 :'+i);
         rIdx = i;
       }
     }    
@@ -81,6 +84,7 @@ module.exports.function = function routineRecommend (rName) {
     flag = Number(date.getDate()) % Number(now[i].seq[0]) - Number(now[i].seq[1]);
     if(flag == 0){
       //오늘의 루틴인 경우
+      console.log(now[i].tNo);
       var t = tData[(Number(now[i].tNo.substring(1,3))-1)];
       /*
       perSet이 1인 경우에는 cnt에 day상수 적용  =>val1
@@ -127,7 +131,7 @@ module.exports.function = function routineRecommend (rName) {
     }
   }
 
-  console.log(results);
+  console.log("result"+results);
 
   return results;
 }

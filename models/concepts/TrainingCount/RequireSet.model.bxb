@@ -1,3 +1,0 @@
-integer (RequireSet) {
-  description (사용자가 요구하는 세트수) // 스쿼트 5세트 해줘 or 스쿼트 5세트 카운팅 해줘
-}

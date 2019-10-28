@@ -131,10 +131,10 @@ module.exports = [ //Routine Table
     formula: [
       {tNo: "T10"
       ,multiple: "1"
-      ,seq: ["4","1"]},
+      ,seq: ["4","0"]},
       {tNo: "T04"
       ,multiple: "1"
-      ,seq: ["4","1"]},
+      ,seq: ["4","0"]},
       {tNo: "T13"
       ,multiple: "1"
       ,seq: ["4","1"]},
@@ -174,7 +174,7 @@ module.exports = [ //Routine Table
     rNo: "R07",
     rTime: "점심",
     rDesc: "사무실 좁은 공간 안에서 조용하고 간편하게 할 수 있는 운동입니다.",
-    rEffect: "앉아있을 때 약해지기 쉬운 코어, 허리, 골반 쪽 근육을 잘 잡아주는 트레이닝으로 구성되어 있습니다.",
+    rEffect: "앉아있을 때 약해지기 쉬운 코어, 허리, 골반 쪽 근육을 잘 ���아주는 트레이닝으로 구성되어 있습니다.",
     formula: [
       {tNo: "T02"
       ,multiple: "1"

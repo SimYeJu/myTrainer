@@ -41,16 +41,6 @@ property (tName) {
     type (Cnt)
     min (Optional) max (One)
   }
-   property (requireSet) {
-    description ()
-    type (RequireSet)
-    min (Optional) max (One)
-  }
-  property (countingNumber) {
-    description ()
-    type (CountingNumber)
-    min (Optional) max (One)
-  }
   property (speech){
     description ()
     type (Speech)
