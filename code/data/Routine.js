@@ -1,5 +1,5 @@
 module.exports = [ //Routine Table
-	//Start of 아침 루틴
+    //Start of 아침 루틴
   {
     rName: "아침",
     rNo: "R01",
@@ -10,7 +10,7 @@ module.exports = [ //Routine Table
       {tNo: "T04"
       ,multiple: "0.5"
       ,seq: ["1","0"]},
-      {tNo: "T09"
+      {tNo: "T11"
       ,multiple: "0.5"
       ,seq: ["1","0"]},
       {tNo: "T08"
@@ -82,13 +82,13 @@ module.exports = [ //Routine Table
       {tNo: "T07"
       ,multiple: "1"
       ,seq: ["4","3"]},
-      {tNo: "T11"
+      {tNo: "T09"
       ,multiple: "0.5"
       ,seq: ["3","0"]},
-      {tNo: "T11"
+      {tNo: "T09"
       ,multiple: "1"
       ,seq: ["3","1"]},
-      {tNo: "T11"
+      {tNo: "T09"
       ,multiple: "1"
       ,seq: ["3","2"]},
     ],
@@ -104,10 +104,10 @@ module.exports = [ //Routine Table
       {tNo: "T04"
       ,multiple: "1"
       ,seq: ["3","0"]},
-      {tNo: "T09"
+      {tNo: "T11"
       ,multiple: "1"
       ,seq: ["3","0"]},
-      {tNo: "T03"
+      {tNo: "T18"
       ,multiple: "1"
       ,seq: ["3","1"]},
       {tNo: "T20"
@@ -141,7 +141,7 @@ module.exports = [ //Routine Table
       {tNo: "T10"
       ,multiple: "1"
       ,seq: ["4","1"]},
-      {tNo: "T39"
+      {tNo: "T03"
       ,multiple: "1"
       ,seq: ["4","2"]},
       {tNo: "T04"
@@ -340,22 +340,22 @@ module.exports = [ //Routine Table
     rDesc: "하체에 비해 상체가 빈약하다면 상체운동을!",
     rEffect: "탄탄한 상체를 만들어주는 운동",
     formula: [
-      {tNo: "T18"
+      {tNo: "T03"
       ,multiple: "1"
       ,seq: ["4","1"]},
-      {tNo: "T18"
+      {tNo: "T03"
       ,multiple: "1"
       ,seq: ["4","2"]},
-      {tNo: "T18"
+      {tNo: "T03"
       ,multiple: "1"
       ,seq: ["4","3"]},
-      {tNo: "T11"
+      {tNo: "T09"
       ,multiple: "1"
       ,seq: ["4","1"]},
-      {tNo: "T11"
+      {tNo: "T09"
       ,multiple: "1"
       ,seq: ["4","2"]},
-      {tNo: "T11"
+      {tNo: "T09"
       ,multiple: "1"
       ,seq: ["4","3"]},
       {tNo: "T10"
@@ -376,13 +376,13 @@ module.exports = [ //Routine Table
       {tNo: "T04"
       ,multiple: "1"
       ,seq: ["3","2"]},
-       {tNo: "T03"
+       {tNo: "T18"
       ,multiple: "0.5"
-      ,seq: ["T03","0"]},
+      ,seq: ["T18","0"]},
       {tNo: "T17"
       ,multiple: "1"
       ,seq: ["3","1"]},
-      {tNo: "T03"
+      {tNo: "T18"
       ,multiple: "1"
       ,seq: ["3","2"]},
     ],

@@ -5,6 +5,16 @@ structure (RoutineRecommendResults) {
     type(RName)
     min (Required) max (One)
   }
+  property(rDesc){
+    description ()
+    type(RDesc)
+    min (Required) max (One)
+  }
+  property(rEffect){
+    description ()
+    type(REffect)
+    min (Required) max (One)
+  }
   property (tName) {
     description ()
     type (TName)

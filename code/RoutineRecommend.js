@@ -10,11 +10,14 @@ module.exports.function = function routineRecommend (rName) {
 
   */
   //생성자
-  var RoutineBlock = function(rName, tName, tNo, tDesc, caution, perSet, setNum, hasDir, tPart, tMuscle, hasRoutine, tTime,day, kcal, cnt, refURL, youtubeURL, imgURL){
+  var RoutineBlock = function(rName, rDesc, rEffect, tName, tNo, tDesc, caution, perSet, setNum, hasDir, tPart, tMuscle, hasRoutine, tTime,day, kcal, cnt, refURL, youtubeURL, imgURL){
       this.rName = rName;
       this.tName = tName;
       this.tNo = tNo;
+      this.rDesc = rDesc;
       this.tDesc = tDesc;
+      this.rEffect = rEffect;
+      this.tName = tName;
       this.caution = caution;
       this.perSet = perSet;
       this.setNum = setNum;
@@ -32,11 +35,10 @@ module.exports.function = function routineRecommend (rName) {
   }
   const rData = require("./data/Routine.js");
   const tData = require("./data/Training.js");
-  
+  rName.replace(/(\s*)/g, "");
   
   const console = require('console');
   console.log('this is routineRecommend');
-  console.log('routinename is '+rName);
   
   var rIdx = -1;//결정된 루틴의 인덱스
 
@@ -58,7 +60,6 @@ module.exports.function = function routineRecommend (rName) {
   }
 
   if(rIdx == -1) {
-    console.log('nothing');
     return null; // 어디에도 인풋네임 비슷한 루틴이 없는경우에 해당
   }
 
@@ -70,21 +71,37 @@ module.exports.function = function routineRecommend (rName) {
   var flag;// 수식 저장
   var date = new Date();
   var r;
+  var val1;
+  var val2;
+
   console.log("now.length : "+now.length);
   for(var i = 0;i<now.length;i++){
-    
     flag = Number(date.getDate()) % Number(now[i].seq[0]) - Number(now[i].seq[1]);
-    console.log(i+".------------"+flag);
     if(flag == 0){
       //오늘의 루틴인 경우
       var t = tData[(Number(now[i].tNo.substring(1,3))-1)];
+      /*
+      perSet이 1인 경우에는 cnt에 day상수 적용  =>val1
+      그 외에는 perSet을 증가시키는데 day 상수 사용=>val2
+      */
+      val1 = Number(t.perSet);
+      val2 = Number(t.cnt);
+      if(val1==1){
+        //이때는 val2값에 day상수 적용
+        val2 = val2+Math.floor((Number(t.day)*Number(date.getDate()/5))/5)*5;
+      }else{
+        val1 = val1+Math.floor((Number(t.day)*Number(date.getDate()/5))/5)*5;
+        console.log(">>> "+val1);
+      }
       r = new RoutineBlock(
           rData[rIdx].rName,
+          rData[rIdx].rDesc,
+          rData[rIdx].rEffect,
           t.tName,
           t.tNo,
           t.tDesc,
           t.caution,
-          t.perSet,
+          val1,
           Number(t.setNum)*Number(now[i].multiple),
           t.hasDir,
           t.tPart,
@@ -93,17 +110,18 @@ module.exports.function = function routineRecommend (rName) {
           t.tTime,
           t.day,
           t.kcal,
-          t.cnt,
+          val2,
           t.refURL,
           t.youtubeURL,
           t.imgURL
         );
-      //results.push(r);
+      results.push(r);
+      console.log("r:"+r);
       //console.log("setNum:"+t.setNum);
       console.log(now[i].multiple);
-      t.setNum = Number(t.setNum)*Number(now[i].multiple);
+      //t.setNum = Number(t.setNum)*Number(now[i].multiple);
       //console.log("changed setNum:"+t.setNum);
-      results.push(t);
+      //results.push(t);
     }
   }
 

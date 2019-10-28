@@ -1,13 +1,14 @@
 result-view {
-   match: TrainingDescriptionResults (result) { //RoutineRecommendResults
+   match: RoutineRecommendResults (result) { //RoutineRecommendResults
       from-output: RoutineRecommend
    }
+
    message {
       template ("운동 루틴에 대한 정보입니다.")
    }
    
    render {
-      if (size(result) > 1) {        
+      if (size(result) >= 1) {        
          list-of (result) {
             has-details (true)
             where-each (item) {
@@ -18,24 +19,13 @@ result-view {
                }
             }
          }
-      } else-if(size(result)==1) {
-        layout-macro (training-detail){
-          param(trainingresult){
-            expression (result)
-          }
-        }
       }
-      // } else-if (size(result) == 1) {
-      //     layout-macro (training-detail){
-      //       param(trainingresult){
-      //         expression(result[0])
-      //       }
+      // } else-if(size(result)==1) {
+      //   layout-macro (training-detail){
+      //     param(trainingresult){
+      //       expression (result)
       //     }
-        //  layout-macro (rountine-result) {
-        // 	param (routineresult) {
-        //   	expression (result)
-        // 	}
-      	// }
+      //   }
       // }
    }
    conversation-drivers {

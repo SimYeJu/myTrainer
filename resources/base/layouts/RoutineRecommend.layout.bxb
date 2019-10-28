@@ -1,8 +1,8 @@
 layout-macro-def(rountine-result) {
    params {
       param (routineresult) {
-         //type (RoutineRecommendResults)
-         type(TrainingDescriptionResults)
+         type (RoutineRecommendResults)
+        //  type(TrainingDescriptionResults)
          min (Required) max (One)
       }
       // param(trainingresult){
@@ -37,8 +37,6 @@ layout-macro-def(rountine-result) {
          on-click {    
             intent {
                //goal: RoutineRecommendResults
-               //goal: TrainingDescription
-               //route: TrainingDescription
                goal: TrainingDescriptionResults
                //route:TrainingDescription
                //value: TName(routineresult.tName)
