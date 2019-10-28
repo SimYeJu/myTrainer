@@ -35,7 +35,8 @@ layout-macro-def(training-detail) {
 								}
 								on-click {
 									intent {
-										goal { @context (Continuation) TrainingCount }
+											goal : TrainingCount
+											value : $expr(trainingresult.tName)
 									}
 								}
 							}
