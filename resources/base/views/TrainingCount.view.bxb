@@ -11,11 +11,11 @@ result-view {
 	}
 	
 	render {
-		layout-macro (count-result) {
-			param (countresult) {
-				expression (result)
+			layout-macro (count-result) {
+				param (countresult) {
+					expression (result)
+				}
 			}
-		}
 	}
 	conversation-drivers {
 		conversation-driver {

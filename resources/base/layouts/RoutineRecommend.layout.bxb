@@ -38,6 +38,7 @@ layout-macro-def(rountine-result) {
             intent {
                //goal: RoutineRecommendResults
                goal: TrainingDescriptionResults
+               route:TrainingDescription
                //route:TrainingDescription
                //value: TName(routineresult.tName)
                //value:$expr(routineresult.tName)
