@@ -1,0 +1,5 @@
+train (t-pzbxbg8rkl08tz6xgfbun7b4b) {
+  utterance ("[g:RoutineRecommend] (10분동안)[v:RName] 할만한 운동 있어?")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1572256859583)
+}

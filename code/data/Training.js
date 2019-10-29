@@ -74,7 +74,7 @@ module.exports = [ //Exercise Table
     cnt: "4",
     refURL: "https://terms.naver.com/entry.nhn?docId=938919&cid=51030&categoryId=51030", //text
     youtubeURL: "https://www.youtube.com/watch?v=KqnFav4Edvw&feature=youtu.be&t=54",
-    imgURL: "https://gitlab.com/Yoowoobin/img_tmp_wb/raw/master/Free_imgURL/T04_img.jpg",
+    imgURL: "https://gitlab.com/Yoowoobin/img_tm손목에무리안가는p_wb/raw/master/Free_imgURL/T04_img.jpg",
   },
   {
     tName: "버피",
