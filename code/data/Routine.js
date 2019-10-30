@@ -32,7 +32,7 @@ module.exports = [ //Routine Table
       ,multiple: "0.5"
       ,seq: ["2","0"]},
       {tNo: "T14"
-      ,multiple: "1/3"
+      ,multiple: "1"
       ,seq: ["2","1"]},
     ],
     keywords: "점심먹고,점심,소화,밥먹고하기좋은,밥먹고,소화에좋은,소화시키기,졸릴때,잠올때,졸린시간에,소화잘되는,잠오는시간에",
@@ -66,6 +66,9 @@ module.exports = [ //Routine Table
     formula: [
       {tNo: "T06"
       ,multiple: "1"
+      ,seq: ["4","0"]},
+      {tNo: "T06"
+      ,multiple: "1"
       ,seq: ["4","1"]},
       {tNo: "T06"
       ,multiple: "1"
@@ -73,6 +76,9 @@ module.exports = [ //Routine Table
       {tNo: "T06"
       ,multiple: "1"
       ,seq: ["4","3"]},
+      {tNo: "T07"
+      ,multiple: "1"
+      ,seq: ["4","0"]},
       {tNo: "T07"
       ,multiple: "1"
       ,seq: ["4","1"]},
@@ -131,10 +137,10 @@ module.exports = [ //Routine Table
     formula: [
       {tNo: "T10"
       ,multiple: "1"
-      ,seq: ["4","0"]},
+      ,seq: ["4","1"]},
       {tNo: "T04"
       ,multiple: "1"
-      ,seq: ["4","0"]},
+      ,seq: ["4","1"]},
       {tNo: "T13"
       ,multiple: "1"
       ,seq: ["4","1"]},
@@ -165,6 +171,18 @@ module.exports = [ //Routine Table
       {tNo: "T10"
       ,multiple: "1"
       ,seq: ["4","3"]},
+      {tNo: "T03"
+      ,multiple: "1"
+      ,seq: ["4","4"]},
+      {tNo: "T04"
+      ,multiple: "1"
+      ,seq: ["4","4"]},
+      {tNo: "T13"
+      ,multiple: "1"
+      ,seq: ["4","4"]},
+      {tNo: "T10"
+      ,multiple: "1"
+      ,seq: ["4","4"]},
       
     ],
     keywords: "식스팩,복근,수영복,식스팩만들기,복근만들기,복근에좋은,초콜릿복근만드는,초콜릿복근,뱃살빼는,뱃살빠지는,뱃살관리하는,코어운동,코어,코어에좋은운동,코어에좋은,코어단련",
@@ -194,6 +212,9 @@ module.exports = [ //Routine Table
     formula: [
       {tNo: "T01"
       ,multiple: "1"
+      ,seq: ["4","0"]},
+      {tNo: "T01"
+      ,multiple: "1"
       ,seq: ["4","1"]},
       {tNo: "T01"
       ,multiple: "1"
@@ -201,6 +222,9 @@ module.exports = [ //Routine Table
       {tNo: "T01"
       ,multiple: "1"
       ,seq: ["4","3"]},
+      {tNo: "T05"
+      ,multiple: "1"
+      ,seq: ["4","0"]},
       {tNo: "T05"
       ,multiple: "1"
       ,seq: ["4","1"]},
@@ -235,7 +259,7 @@ module.exports = [ //Routine Table
     rName: "회사에서 몰래 할 수 있는 운동",
     rNo: "R09",
     rTime: "저녁",
-    rDesc: "직장 동료들에게 안들키��� 할 수 있는 운동!",
+    rDesc: "직장 동료들에게 안들키고 할 수 있는 운동!",
     rEffect: "하체라인과 어깨, 삼두를 수시로 자극시켜 최고의 suit fit을 만들어줍니다.",
     formula: [
       {tNo: "T05"
