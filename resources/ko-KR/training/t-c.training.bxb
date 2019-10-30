@@ -1,5 +1,10 @@
 train (t-ck2eq6ag22vfahravdu5mvnei) {
   utterance ("[g:TrainingCountResults] (스쿼트)[v:TName] 할래")
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
-  last-modified (1572399454406)
+  last-modified (1572180038398)
+}
+train (t-csidr9da3v4i8dlmdunynfagk) {
+  utterance ("[g:TrainingCountResults] (플랭크)[v:TName] 스타트")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572408145050)
 }

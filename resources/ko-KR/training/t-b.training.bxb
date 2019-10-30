@@ -1,15 +1,10 @@
 train (t-bk4szuzmf2v7oqofn1zwx60jp) {
-  utterance ("[g:RoutineRecommendResults] (코어)[v:RName] 운동 알려줘")
+  utterance ("[g:ten_friends.myTrainer.RoutineRecommendResults] (코어)[v:ten_friends.myTrainer.RName] 운동 알려줘")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
-  last-modified (1572399408471)
+  last-modified (1572252025067)
 }
-train (t-bti3nnc32ilkq4qe4ayplzyvu) {
-  utterance ("[g:RoutineRecommendResults] (뱃살빼는)[v:RName] 운동 추천해줘")
-  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
-  last-modified (1572399450599)
-}
-train (t-budn8w9yn3au9ycs88nxalzqy) {
-  utterance ("[g:TrainingDescriptionResults] (더블 니업)[v:TName] 궁금해")
+train (t-buf8my1zqg2qzpnomv44cbpd5) {
+  utterance ("[g:TrainingDescriptionResults] 나 (런지)[v:TName] 하려고")
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
-  last-modified (1572402610288)
+  last-modified (1572408046019)
 }

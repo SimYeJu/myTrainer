@@ -1,15 +1,15 @@
 train (t-ictbxxh13rtfufeu7enzxfjjx) {
-  utterance ("[g:RoutineRecommendResults] (다이어트)[v:RName]에 좋은 운동 알려줘")
-  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
-  last-modified (1572399474536)
+  utterance ("[g:RoutineRecommend] (다이어트)[v:RName]에 좋은 운동 알려줘")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1572252285180)
 }
-train (t-iidst9uky8gcztzuwpukhwtas) {
-  utterance ("[g:RoutineRecommendResults] (쉬운)[v:RName] 운동 알려줘")
+train (t-ijqatdg9hwolj47qraqlmoftc) {
+  utterance ("[g:RoutineRecommendResults] (아침)[v:RName]은 어떤 운동을 할까")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
-  last-modified (1572399478552)
+  last-modified (1572407833458)
 }
 train (t-ivrltms9587kf5f2tj8tvjafj) {
-  utterance ("[g:RoutineRecommendResults] (서서할 수 있는)[v:RName] 운동 혹시 있어?")
-  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
-  last-modified (1572399482080)
+  utterance ("[g:ten_friends.myTrainer.RoutineRecommend] (서서할 수 있는)[v:ten_friends.myTrainer.RName] 운동 혹시 있어?")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1572253807426)
 }

@@ -3,3 +3,8 @@ train (t-o8sdag3yxl59fgr54vyvy1bf6) {
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
   last-modified (1572259333686)
 }
+train (t-onn2f4lt5748fbp810kbeh9wy) {
+  utterance ("[g:TrainingCountResults] (더블니업)[v:TName] 한 세트 할래")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572408177340)
+}

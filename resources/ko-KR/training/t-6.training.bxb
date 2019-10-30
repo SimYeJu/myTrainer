@@ -1,15 +1,10 @@
-train (t-61exxii7o7s8rt7y1ofkmvk6x) {
-  utterance ("[g:TrainingCountResults] (플랭크)[v:TName] 하자")
-  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
-  last-modified (1572402924600)
-}
 train (t-64t4zx7rl3hi7ozsydyvj876l) {
   utterance ("[g:RoutineRecommend] (허리에 좋은)[v:RName] 운동 있어?")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
   last-modified (1572256978319)
 }
-train (t-67huqg8ysh2usf9hpxxg9ileq) {
-  utterance ("[g:RoutineRecommendResults] (다리근육)[v:RName]에 좋은 루틴 알려줘")
+train (t-6n70aw2hbtrrrigxhuwltjj7w) {
+  utterance ("[g:RoutineRecommendResults] (잠 깨기)[v:RName]에 좋은 운동 알려줘")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
-  last-modified (1572402171201)
+  last-modified (1572407892947)
 }

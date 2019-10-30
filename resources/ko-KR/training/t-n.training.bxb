@@ -3,3 +3,8 @@ train (t-n9e073i10zkldjlmymfsxu5hw) {
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
   last-modified (1572253581433)
 }
+train (t-nc4uv6qw7hb3y6y50ws1kshxu) {
+  utterance ("[g:TrainingDescriptionResults] (쇼트피치)[v:TName] 어떻게 해")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572407966002)
+}
