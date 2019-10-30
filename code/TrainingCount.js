@@ -4,12 +4,12 @@ module.exports.function = function trainingCount(tName) {
   const tData = require("./data/Training.js");
 
   var idx;
-
+  tName = tName.replace(/(\s*)/g, "");
   if (tName == null) {
     console.log("tName is null")
   } else {
     for (var i = 0; i < tData.length; i++) {
-      if (tData[i].tName.match(tName)) {
+      if (tData[i].tName.replace(/(\s*)/g, "").match(tName)) {
         idx = i;
         break;
       }

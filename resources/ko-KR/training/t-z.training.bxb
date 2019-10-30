@@ -3,8 +3,18 @@ train (t-z8zfzkrlyq2veme6ltfvxtjg6) {
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCED5AA==)
   last-modified (1572412495487)
 }
+train (t-zb0gwh9cx5p214dwagwu6cnrp) {
+  utterance ("[g:ten_friends.myTrainer.RoutineRecommendResults] (아침)[v:ten_friends.myTrainer.RName] 운동 할래")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572413919026)
+}
 train (t-zmemyqz0c4qlpggtcbuo07n12) {
   utterance ("[g:ten_friends.myTrainer.TrainingCountResults] (오블리크 크런치)[v:ten_friends.myTrainer.TName] 하고싶어")
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572402744447)
+}
+train (t-zr2hb0v4acwxh1cuz5m42ffeb) {
+  utterance ("[g:ten_friends.myTrainer.TrainingCountResults] (라잉힙어브덕션)[v:TName] 개수 카운팅 해줘")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572416816349)
 }

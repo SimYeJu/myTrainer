@@ -13,3 +13,8 @@ train (t-csidr9da3v4i8dlmdunynfagk) {
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572408145050)
 }
+train (t-cvjo0vzp1itd9ou59hu4j7w5x) {
+  utterance ("[g:RoutineRecommendResults] (잠깨)[v:RName]려면 뭐해야돼")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572414301359)
+}

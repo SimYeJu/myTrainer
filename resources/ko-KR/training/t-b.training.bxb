@@ -1,3 +1,8 @@
+train (t-b8ef6ahxw50zxvfja0b7urc3o) {
+  utterance ("[g:ten_friends.myTrainer.RoutineRecommendResults] (전신)[v:ten_friends.myTrainer.RName] 운동 할려면 뭘 해야돼?")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572416033802)
+}
 train (t-bk4szuzmf2v7oqofn1zwx60jp) {
   utterance ("[g:ten_friends.myTrainer.RoutineRecommendResults] (코어)[v:ten_friends.myTrainer.RName] 운동 알려줘")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)

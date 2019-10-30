@@ -3,3 +3,8 @@ train (t-9f7hkaq7t1zucr8bfi4nrmjoy) {
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572399445999)
 }
+train (t-9t1ev8965lljcys9irnpp4pyn) {
+  utterance ("[g:TrainingDescriptionResults] (점핑잭)[v:TName] 검색해줘")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572413513579)
+}

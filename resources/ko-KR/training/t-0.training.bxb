@@ -3,3 +3,8 @@ train (t-0nmj0lahfmuoipe4henm3q8kj) {
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572229686226)
 }
+train (t-0z4z3pnao810asv3a2yurstk8) {
+  utterance ("[g:ten_friends.myTrainer.RoutineRecommend] (아침)[v:ten_friends.myTrainer.RName] 운동 추천해줘")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1572413897554)
+}

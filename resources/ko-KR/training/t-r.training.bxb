@@ -1,0 +1,15 @@
+train (t-r9pzjh1tn658w5zan3qm79x5w) {
+  utterance ("[g:TrainingDescriptionResults] (스쿼트)[v:TName]가 뭐더라?")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572418604814)
+}
+train (t-rgfre0hysgfc9as046b8o00q9) {
+  utterance ("[g:ten_friends.myTrainer.TrainingCountResults] (버피)[v:ten_friends.myTrainer.TName] 시작해")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572416117266)
+}
+train (t-rvg3sbg2ylstbzpo0v0gtqwik) {
+  utterance ("[g:RoutineRecommendResults] (팔힘 세지는)[v:RName] 운동 알려줘")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572414027756)
+}

@@ -1,3 +1,8 @@
+train (t-29h3x39ert8bs5g9rctyr6g3o) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (스쿼트)[v:ten_friends.myTrainer.TName] 그거뭐지")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572418586591)
+}
 train (t-2jpmicujefwhyelbjaewj4jid) {
   utterance ("[g:TrainingDescriptionResults] (스쿼트)[v:TName] 정보 보여줄래")
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
@@ -7,4 +12,9 @@ train (t-2lkwz7fgn1m1vf1whnu2tqgb6) {
   utterance ("[g:TrainingDescriptionResults] (버피)[v:TName] 하는법 좀")
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572413154917)
+}
+train (t-2yfta2cceb7db9g9xsxzb69lp) {
+  utterance ("[g:ten_friends.myTrainer.RoutineRecommendResults] (팔 두꺼워지는)[v:ten_friends.myTrainer.RName] 운동 할래")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572414162592)
 }

@@ -1,3 +1,8 @@
+train (t-s9u9fz2fgc3nsq7ydoijfwbsy) {
+  utterance ("[g:ten_friends.myTrainer.RoutineRecommendResults] (침대에서 하기)[v:ten_friends.myTrainer.RName] 좋은 운동좀 알려줘")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572418136559)
+}
 train (t-scukmb7b1wymiw2pi2tlgdad6) {
   utterance ("[g:TrainingCountResults] 나 (벤치 딥스)[v:TName] 개수 세어줘")
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
@@ -7,6 +12,11 @@ train (t-sej6scjtpul1pe3wqa6ehi2tn) {
   utterance ("[g:TrainingDescriptionResults] 나 (가벼운 유산소 운동)[v:TName] 정보 궁금해")
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572408082266)
+}
+train (t-slqvqxs6llxljagbkg0emb7q1) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (브릿지)[v:ten_friends.myTrainer.TName] 유튜브 볼래")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572413692914)
 }
 train (t-snm99wodd2r8w7zxb3l93a3jg) {
   utterance ("[g:TrainingDescriptionResults] (더블 니업)[v:TName] 알고 싶어")

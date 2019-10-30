@@ -3,8 +3,23 @@ train (t-33aun3bnuu7vaw9iga2zazhwy) {
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCED5AA==)
   last-modified (1572410363913)
 }
+train (t-37dpg9748a9cs21m3q7l84zoq) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescription] (사이드플랭크)[v:TName]가 뭐더라?")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCED5AA==)
+  last-modified (1572418632857)
+}
 train (t-3hy157iy6iilqpr9g5tw1vwqm) {
   utterance ("[g:TrainingDescriptionResults] (스쿼트)[v:TName] 보여줘")
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572408023938)
+}
+train (t-3vdav8xvu1s0b7xm6k91vcx70) {
+  utterance ("[g:TrainingCountResults] (라잉 힙 어브덕션)[v:TName] 세줘")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572416444325)
+}
+train (t-3x56f2f1no0m9nqgr963dby17) {
+  utterance ("[g:RoutineRecommendResults] (점심)[v:RName] 운동 뭐 있어?")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572413961043)
 }

@@ -1,5 +1,30 @@
+train (t-g1elf65yh5etac52frwx0u7im) {
+  utterance ("[g:ten_friends.myTrainer.TrainingCountResults] (사이드런지)[v:TName] 세줘")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572416574563)
+}
+train (t-gdleuw0x0702ztu9wui94er0i) {
+  utterance ("[g:TrainingDescriptionResults] (스쿼트)[v:TName]랑 (런지)[v:TName] 알려줘")
+  plan (Y2BlMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5UCSRYGRgYmBmYgzQBmMQFJBgYeIGQAijJAZAA=)
+  last-modified (1572413827224)
+}
+train (t-gkrvko81ys9rhkfeip6osme17) {
+  utterance ("[g:TrainingDescriptionResults] (점핑잭)[v:TName] 검색 해줘")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572413554699)
+}
+train (t-glip8ilxa3dpa9fqg0og1htp5) {
+  utterance ("[g:ten_friends.myTrainer.RoutineRecommend] (잠깨)[v:ten_friends.myTrainer.RName]게 운동 추천해줘")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1572416077369)
+}
 train (t-gp1rohuys70qlkk9d8epv0jg2) {
   utterance ("[g:RoutineRecommendResults] (뱃살 빼는)[v:RName] 운동 추천해줘")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
   last-modified (1572399463559)
+}
+train (t-gvto7unrqcxfbeuavgbu4pa2e) {
+  utterance ("[g:TrainingCountResults] (사이드 플랭크)[v:ten_friends.myTrainer.TName] 갯수 새줘")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572416751574)
 }

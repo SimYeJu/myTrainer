@@ -3,6 +3,11 @@ train (t-15gclerh5iue3fnguebvndssv) {
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572408161953)
 }
+train (t-1784qohi61mrgu2b4fow9mo2a) {
+  utterance ("[g:RoutineRecommendResults] (잠 깨)[v:RName]려면 뭐 해야돼?")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572415798547)
+}
 train (t-1n65funho1l53o3c7yqajrtzc) {
   utterance ("[g:RoutineRecommend] (복근)[v:RName] 운동 추천해줘")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)

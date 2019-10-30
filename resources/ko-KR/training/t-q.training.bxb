@@ -8,6 +8,16 @@ train (t-qbxkg9daoc2jwdv6y7mdgycoq) {
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572412913658)
 }
+train (t-qfky7lelsa6s6a6x9kbdojaq3) {
+  utterance ("[g:ten_friends.myTrainer.RoutineRecommendResults] (소화에 좋은)[v:ten_friends.myTrainer.RName] 운동 할래")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572415764362)
+}
+train (t-qkbafo75kphoml2p83xkrhr2h) {
+  utterance ("[g:ten_friends.myTrainer.RoutineRecommend] (무릎 안 아픈)[v:ten_friends.myTrainer.RName] 운동 혹시 있어?")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1572416093018)
+}
 train (t-ql0366bllfrdvhidk47iyj19b) {
   utterance ("[g:TrainingDescriptionResults] (런지)[v:TName]가 뭐야")
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
@@ -17,4 +27,9 @@ train (t-qwesouctgsohx1pymya74sm0i) {
   utterance ("[g:RoutineRecommendResults] (피곤)[v:RName]할 때 무슨 운동해야해")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
   last-modified (1572402171153)
+}
+train (t-qyft2d7fqfhoea1ufqp8h10wg) {
+  utterance ("[g:TrainingCountResults] (글루트 킥백)[v:TName] 시작할게")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572416160332)
 }

@@ -1,3 +1,8 @@
+train (t-e0426qjrupphgsqx0ypx2rypa) {
+  utterance ("[g:RoutineRecommendResults] (잠깨는)[v:RName] 운동 알려줘")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572414382731)
+}
 train (t-e0lrmjmuyfnqye93iga75zzk6) {
   utterance ("[g:RoutineRecommendResults] (누워서)[v:RName] 딱 하기 좋은거 알려줘")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
@@ -7,6 +12,16 @@ train (t-e6xhxbjmo8ej0vnvujg1p38jg) {
   utterance ("[g:TrainingCountResults] (런지)[v:TName] 할래")
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572229213730)
+}
+train (t-e84qtm4p2xaac8i63ch3ncq7q) {
+  utterance ("[g:ten_friends.myTrainer.RoutineRecommendResults] (초콜릿 복근 만드는)[v:ten_friends.myTrainer.RName] 운동 하나만 추천해봐")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572418258409)
+}
+train (t-efyaylofe3t0jylst6gs3ffg3) {
+  utterance ("[g:TrainingCountResults] (와이드스쿼트)[v:TName] 시작해줘")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572416204283)
 }
 train (t-emuvnbwtfnax1z1po835pj4iw) {
   utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (벤치 딥스)[v:ten_friends.myTrainer.TName] 어떻게 해야돼?")

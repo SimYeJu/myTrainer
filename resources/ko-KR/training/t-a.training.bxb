@@ -1,3 +1,8 @@
+train (t-acwfy5uxssvkgvx0selwhapgs) {
+  utterance ("[g:TrainingCountResults] (사이드런지)[v:TName] 갯수 세줘")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572416771131)
+}
 train (t-am6gui3bk806axto7txcaiuor) {
   utterance ("[g:TrainingCount] (런지)[v:TName] 시작하게 도와줘")
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCED5AA==)

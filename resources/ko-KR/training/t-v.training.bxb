@@ -3,6 +3,11 @@ train (t-vdisjfw9ushg9d8l5swn93wh8) {
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
   last-modified (1572410581161)
 }
+train (t-vffnhiews2sca0e84vi0wj6sw) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescription] (피티점프)[v:TName] 유튜브 틀어")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCED5AA==)
+  last-modified (1572413657858)
+}
 train (t-vht3264t5cba63d9a58srk9e7) {
   utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (플랭크)[v:ten_friends.myTrainer.TName] 하는 법좀")
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)

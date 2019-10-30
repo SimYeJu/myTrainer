@@ -1,3 +1,8 @@
+train (t-k5n1v7uditt21t6yy5o71rlj1) {
+  utterance ("[g:ten_friends.myTrainer.RoutineRecommendResults] (팔튼튼해지는)[v:ten_friends.myTrainer.RName] 운동 할래")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572414456720)
+}
 train (t-k7ebpgswrx51204sk3deib5so) {
   utterance ("[g:RoutineRecommend] 점심에 할 수 있는 (간단한)[v:RName] 스트레칭 알려줘")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)

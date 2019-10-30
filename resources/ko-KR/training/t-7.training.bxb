@@ -3,3 +3,13 @@ train (t-743peh2bwfpmtd4ui29q02wju) {
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
   last-modified (1572407943217)
 }
+train (t-7o7k4fe069fhoni69wvghzrbr) {
+  utterance ("[g:ten_friends.myTrainer.RoutineRecommendResults] (전신운동)[v:ten_friends.myTrainer.RName] 하려면 뭐 해야돼?")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572416018249)
+}
+train (t-7otgyeaeezhipo6t4hf0nsqd1) {
+  utterance ("[g:TrainingCountResults] (와이드 스쿼트)[v:ten_friends.myTrainer.TName] 가즈아")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572416713575)
+}

@@ -8,8 +8,18 @@ train (t-wcke3xl74bisipq8g5a118vdc) {
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572218997621)
 }
+train (t-wo4zsyn7ozd14os188xrp9a5r) {
+  utterance ("[g:ten_friends.myTrainer.RoutineRecommendResults] (잠깨)[v:ten_friends.myTrainer.RName]려면 뭐해야돼?")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572415996010)
+}
 train (t-wps75pu71rdgm4yuq07euwqzg) {
   utterance ("[g:RoutineRecommendResults] (피곤)[v:RName] 때 하기 좋은 운동 추천해줘")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
   last-modified (1572407859250)
+}
+train (t-wq04lpq8r3y7n3376pu7z25nc) {
+  utterance ("[g:ten_friends.myTrainer.RoutineRecommendResults] (소화잘되는)[v:RName] 운동 뭐 있어?")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572415730016)
 }

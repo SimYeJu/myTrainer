@@ -1,5 +1,15 @@
+train (t-l3u672p3z327xvl3oilapfxyg) {
+  utterance ("[g:ten_friends.myTrainer.TrainingCountResults] (사이드플랭크)[v:TName] 세줘")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572416694892)
+}
 train (t-louy2n01vwfe0cefrz9d36vbs) {
   utterance ("[g:ten_friends.myTrainer.TrainingDescription] (피티점프)[v:TName] 동영상좀")
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCED5AA==)
   last-modified (1572412914217)
+}
+train (t-ltgf4eih7poxfkgr2on2cozfd) {
+  utterance ("[g:ten_friends.myTrainer.TrainingCountResults] (와이드스쿼트)[v:TName] 세줘")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572416557450)
 }

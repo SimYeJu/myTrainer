@@ -3,6 +3,11 @@ train (t-8c4c4zrt2ebuyyw3icuqi4foe) {
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCED5AA==)
   last-modified (1572410344753)
 }
+train (t-8gsbbu8vx0z8tdgljbvfk3ajj) {
+  utterance ("[g:ten_friends.myTrainer.RoutineRecommend] (서서할수있는)[v:ten_friends.myTrainer.RName] 운동 뭐 있어?")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1572413991059)
+}
 train (t-8sa7vnglxc5ic7vdq5jisoi9y) {
   utterance ("[g:ten_friends.myTrainer.TrainingCountResults] (플랭크)[v:ten_friends.myTrainer.TName] 세주라")
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)

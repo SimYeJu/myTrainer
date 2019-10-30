@@ -3,6 +3,16 @@ train (t-40x9muxiztkz3qkq5n5okzqyc) {
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572413117346)
 }
+train (t-46qur8v0wled36mtuarma8amu) {
+  utterance ("[g:ten_friends.myTrainer.RoutineRecommendResults] (어깨넓어지는)[v:ten_friends.myTrainer.RName] 운동 뭐있는지 알려줘")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572414109709)
+}
+train (t-48v4znftcgkk68bg26xu5o57d) {
+  utterance ("[g:RoutineRecommendResults] (잠깨)[v:RName]려면 뭐할까")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572414353512)
+}
 train (t-4bq5kee1j2h52xv2gdenbeyow) {
   utterance ("[g:RoutineRecommendResults] (피곤)[v:RName]할 때 무슨 운동해")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)

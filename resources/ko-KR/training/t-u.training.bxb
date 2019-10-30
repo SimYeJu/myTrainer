@@ -18,6 +18,16 @@ train (t-ufrauvi7mtbge83f25b9d05ci) {
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
   last-modified (1572401853935)
 }
+train (t-ukpzxrl4nk9xz0vx1b1rdfgza) {
+  utterance ("[g:ten_friends.myTrainer.RoutineRecommend] (다리가늘어지는)[v:ten_friends.myTrainer.RName] 운동 있어?")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1572416064363)
+}
+train (t-uss1rklulx4zp7iufonicb8hr) {
+  utterance ("[g:RoutineRecommendResults] (휴가때)[v:RName] 할 운동 추천해줘")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572415729052)
+}
 train (t-uu1jqc31rl096wkkj1g5hex2l) {
   utterance ("[g:TrainingCount] (런지)[v:TName] 카운트 고")
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCED5AA==)
