@@ -30,4 +30,5 @@ capsule {
   store-sections{
     section (HealthAndFitness)
   }
+  
 }
