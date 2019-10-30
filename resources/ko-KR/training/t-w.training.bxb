@@ -1,7 +1,7 @@
 train (t-w7pou0676xqxrf2iw5g6i1e5u) {
   utterance ("[g:TrainingCountResults] (스쿼트)[v:TName] 카운팅해줘")
-  plan (Y2Bm0CrISaxML8ovzUvRyy0tTs5JTU/MzNMLKQKSmXnpzkCJkqDU4tKckmIGZSLUMkjjUOSXmJvKwMTACMQMQJKRAQSYIBgA)
-  last-modified (1571923259339)
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572398871108)
 }
 train (t-wcke3xl74bisipq8g5a118vdc) {
   utterance ("[g:TrainingDescriptionResults] (점핑잭)[v:TName] 알려줘")

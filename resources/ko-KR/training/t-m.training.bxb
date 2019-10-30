@@ -3,3 +3,8 @@ train (t-mvx8jbmqfntdtytxilapkkbo5) {
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
   last-modified (1572252677569)
 }
+train (t-mwdtl8ii5f574ktjubv5xsohu) {
+  utterance ("[g:TrainingCountResults] (플랭크)[v:TName] 시작하자")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572402883263)
+}

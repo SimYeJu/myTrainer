@@ -1,5 +1,15 @@
+train (t-q6m9dbh9ki20pluxn7zwys7kk) {
+  utterance ("[g:TrainingCountResults] (플랭크)[v:ten_friends.myTrainer.TName] 시작")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572402861089)
+}
 train (t-ql0366bllfrdvhidk47iyj19b) {
   utterance ("[g:TrainingDescriptionResults] (런지)[v:TName]가 뭐야")
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572235161604)
+}
+train (t-qwesouctgsohx1pymya74sm0i) {
+  utterance ("[g:RoutineRecommendResults] (피곤)[v:RName]할 때 무슨 운동해야해")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572402171153)
 }

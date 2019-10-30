@@ -1,5 +1,10 @@
-train (t-yvd3rsw9t77cifboi4jdb218l) {
-  utterance ("[g:ten_friends.myTrainer.TrainingCountResults] (사이드 런지)[v:TName] 할래")
+train (t-yd8i2kb6a4e9d71rogwc7wn83) {
+  utterance ("[g:ten_friends.myTrainer.TrainingCountResults] (플랭크)[v:ten_friends.myTrainer.TName] 고고")
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
-  last-modified (1572234599932)
+  last-modified (1572402988333)
+}
+train (t-yvd3rsw9t77cifboi4jdb218l) {
+  utterance ("[g:TrainingCountResults] (사이드 런지)[v:TName] 할래")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572398871083)
 }

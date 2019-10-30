@@ -1,5 +1,5 @@
 train (t-gp1rohuys70qlkk9d8epv0jg2) {
-  utterance ("[g:RoutineRecommend] (뱃살 빼는)[v:RName] 운동 추천해줘")
-  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
-  last-modified (1572252540147)
+  utterance ("[g:RoutineRecommendResults] (뱃살 빼는)[v:RName] 운동 추천해줘")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572399463559)
 }

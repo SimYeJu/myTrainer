@@ -1,5 +1,5 @@
 train (t-9f7hkaq7t1zucr8bfi4nrmjoy) {
-  utterance ("[g:ten_friends.myTrainer.TrainingDescription] (스쿼트)[v:TName] 정보 알려줘")
-  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCED5AA==)
-  last-modified (1572180204678)
+  utterance ("[g:TrainingDescriptionResults] (스쿼트)[v:TName] 정보 알려줘")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572399445999)
 }

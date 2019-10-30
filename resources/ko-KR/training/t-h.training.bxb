@@ -1,5 +1,10 @@
 train (t-hlzohrikyzp5mj4gy43msfdx8) {
-  utterance ("[g:TrainingDescription] (팔굽혀펴기)[v:TName] 가르쳐줘")
-  plan (Y2BmMCjISaxML8ovzUvRyy0tTs5JTU/MzNMLKQKSmXnpLqnFyUWZBSWZ+XlBqcWlOSXFDJpE62CQxqHULzE3lYGJgRGIGYAkIwMIQPkA)
-  last-modified (1571923265167)
+  utterance ("[g:TrainingDescriptionResults] (팔굽혀펴기)[v:TName] 가르쳐줘")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572399469864)
+}
+train (t-hzc3pjz4uhphx52o5mlmwoea9) {
+  utterance ("[g:TrainingCountResults] (오블리크 크런치)[v:TName] 카운팅해줘")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572402770592)
 }

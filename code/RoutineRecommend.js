@@ -41,13 +41,15 @@ module.exports.function = function routineRecommend (rName) {
   
   const console = require('console');
   console.log('this is routineRecommend');
-  
+  console.log('rName : ' + rName);
+
   var rIdx = -1;//결정된 루틴의 인덱스
 
   //루틴 네임으로 검색
   for(var i=0; i<rData.length; i++){
     console.log('rData rName is :'+rData[i].rName);
-    if(rData[i].rName==rName){
+    
+    if(rData[i].rName.replace(/(\s*)/g, "").includes(rName)||rName.includes(rData[i].rName.replace(/(\s*)/g, ""))){
       console.log('i추가 :'+i);
       rIdx = i;
       break;

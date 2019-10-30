@@ -1,5 +1,10 @@
+train (t-vhxgk3inngie97jx46kawe5zn) {
+  utterance ("[g:TrainingDescriptionResults] (푸쉬업)[v:TName] 설명해줘")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572402337264)
+}
 train (t-vux7ygy7m34tbf9h29py9uo5h) {
-  utterance ("[g:TrainingDescription] (런지)[v:TName] 알려줘")
-  plan (Y2BmMCjISaxML8ovzUvRyy0tTs5JTU/MzNMLKQKSmXnpLqnFyUWZBSWZ+XlBqcWlOSXFDJpE62CQxqHULzE3lYGJgRGIGYAkIwMIQPkA)
-  last-modified (1571923313279)
+  utterance ("[g:TrainingDescriptionResults] (런지)[v:TName] 알려줘")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572399503207)
 }

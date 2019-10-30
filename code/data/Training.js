@@ -47,7 +47,7 @@ module.exports = [ //Exercise Table
     setNum: "2",
     hasDir: "false",
     tPart: "가슴,어깨",
-    tMuscle: "대흉근,삼각근,삼두",
+    tMuscle: "대흉근,삼각근,삼두,팔굽혀펴기",
     hasRoutine: "false",
     tTime: "0",
     day: "1.2",

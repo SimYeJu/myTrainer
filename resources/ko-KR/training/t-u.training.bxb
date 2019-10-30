@@ -3,6 +3,11 @@ train (t-u3a4no80emr7070g8070fgslv) {
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
   last-modified (1572237409645)
 }
+train (t-ufrauvi7mtbge83f25b9d05ci) {
+  utterance ("[g:RoutineRecommendResults] (회사에서 몰래 할 수 있는)[v:RName] 운동 뭐가 있어")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572401853935)
+}
 train (t-uxa55r3pv3wuupoebcusbxsdu) {
   utterance ("[g:RoutineRecommend] (팔)[v:RName] 운동 추천해줘")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)

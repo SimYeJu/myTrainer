@@ -1,5 +1,10 @@
+train (t-d161eqmjff3vo2ndjj5rsn4sa) {
+  utterance ("[g:RoutineRecommendResults] (서서)[v:RName] 할 때 하는 운동 뭐야")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572401853367)
+}
 train (t-deejbd190ihcsdnpod19ol5j7) {
   utterance ("[g:TrainingCountResults] (런지)[v:TName] 카운팅해줘")
-  plan (Y2Bm0CrISaxML8ovzUvRyy0tTs5JTU/MzNMLKQKSmXnpzkCJkqDU4tKckmIGZSLUMkjjUOSXmJvKwMTACMQMQJKRAQSYIBgA)
-  last-modified (1571923226589)
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572398870475)
 }

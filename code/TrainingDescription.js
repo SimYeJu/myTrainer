@@ -1,4 +1,4 @@
-module.exports.function = function trainingDescription (tName) {
+module.exports.function = function trainingDescription(tName) {
   const tData = require("./data/Training.js");
   const console = require("console");
 
@@ -12,12 +12,23 @@ module.exports.function = function trainingDescription (tName) {
 
   /*------ 선언부 ------*/
   let results = [];
-  
+
   /*------ 실행 ------*/
-  tName = tName.replace(/(\s*)/g, "") ;
-  for(let i = 0; i < tData.length; i++) {
-    if(tData[i].tName.replace(/(\s*)/g, "").match(tName)) {
+  tName = tName.replace(/(\s*)/g, "");
+  for (let i = 0; i < tData.length; i++) {
+    if (tData[i].tName.replace(/(\s*)/g, "").match(tName)) {
       results.push(tData[i]);
+    }
+  }
+
+ 
+  //tMuscle
+  if (results.length == 0) {
+  console.log(results.length);
+    for (let i = 0; i < tData.length; i++) {
+      if (tData[i].tMuscle.includes(tName)) {
+        results.push(tData[i]);
+      }
     }
   }
 

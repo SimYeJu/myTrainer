@@ -1,5 +1,10 @@
+train (t-8sa7vnglxc5ic7vdq5jisoi9y) {
+  utterance ("[g:ten_friends.myTrainer.TrainingCountResults] (플랭크)[v:ten_friends.myTrainer.TName] 세주라")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572402978448)
+}
 train (t-8x4buxyt4noovhv2z692wfudt) {
-  utterance ("[g:RoutineRecommend] (복근)[v:RName] 운동 알려줘")
-  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
-  last-modified (1572256862727)
+  utterance ("[g:RoutineRecommendResults] (복근)[v:RName] 운동 알려줘")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572399523431)
 }

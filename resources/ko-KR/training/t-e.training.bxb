@@ -3,3 +3,8 @@ train (t-e6xhxbjmo8ej0vnvujg1p38jg) {
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572229213730)
 }
+train (t-eqm6o725h3tz7uixh32fu784e) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (글루트 킥백)[v:ten_friends.myTrainer.TName] 칼로리 알려줘")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572402461687)
+}
