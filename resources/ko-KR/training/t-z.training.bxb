@@ -1,3 +1,8 @@
+train (t-z8zfzkrlyq2veme6ltfvxtjg6) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescription] (가벼운 유산소 운동)[v:ten_friends.myTrainer.TName] 어떻게 하는건지 알려줘")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCED5AA==)
+  last-modified (1572412495487)
+}
 train (t-zmemyqz0c4qlpggtcbuo07n12) {
   utterance ("[g:ten_friends.myTrainer.TrainingCountResults] (오블리크 크런치)[v:ten_friends.myTrainer.TName] 하고싶어")
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)

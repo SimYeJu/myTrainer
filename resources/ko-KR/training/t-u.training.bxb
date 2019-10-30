@@ -3,10 +3,25 @@ train (t-u3a4no80emr7070g8070fgslv) {
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
   last-modified (1572237409645)
 }
+train (t-u3a830hzert57b1j7m3hqif0k) {
+  utterance ("[g:TrainingCount] (런지)[v:ten_friends.myTrainer.TName] 카운팅 도와줘")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCED5AA==)
+  last-modified (1572410151257)
+}
+train (t-u9usmsm25s69nsaajiwj2obt3) {
+  utterance ("[g:TrainingDescription] 스쿼트 아니고 (벤치 딥스)[v:TName] 알려줘")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCED5AA==)
+  last-modified (1572410372994)
+}
 train (t-ufrauvi7mtbge83f25b9d05ci) {
   utterance ("[g:RoutineRecommendResults] (회사에서 몰래 할 수 있는)[v:RName] 운동 뭐가 있어")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
   last-modified (1572401853935)
+}
+train (t-uu1jqc31rl096wkkj1g5hex2l) {
+  utterance ("[g:TrainingCount] (런지)[v:TName] 카운트 고")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCED5AA==)
+  last-modified (1572410168081)
 }
 train (t-uxa55r3pv3wuupoebcusbxsdu) {
   utterance ("[g:RoutineRecommend] (팔)[v:RName] 운동 추천해줘")

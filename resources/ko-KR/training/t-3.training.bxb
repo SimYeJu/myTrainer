@@ -1,3 +1,8 @@
+train (t-33aun3bnuu7vaw9iga2zazhwy) {
+  utterance ("[g:TrainingDescription] (스쿼트)[v:TName] 운동 정보 있어?")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCED5AA==)
+  last-modified (1572410363913)
+}
 train (t-3hy157iy6iilqpr9g5tw1vwqm) {
   utterance ("[g:TrainingDescriptionResults] (스쿼트)[v:TName] 보여줘")
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)

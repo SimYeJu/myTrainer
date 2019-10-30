@@ -1,3 +1,13 @@
+train (t-m1yffiug5k1lj6kw4dffwkpk7) {
+  utterance ("[g:TrainingDescription] (스쿼트)[v:TName]에 해당하는 리스트 보여줘")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCED5AA==)
+  last-modified (1572410318602)
+}
+train (t-mq1mre8v7374hfqy6cnq7t8wm) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (오블리크 크런치)[v:ten_friends.myTrainer.TName] 하는 법 있니?")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572412688849)
+}
 train (t-mvx8jbmqfntdtytxilapkkbo5) {
   utterance ("[g:RoutineRecommend] (아침)[v:RName]에 할 수 있는 운동 루틴이 뭐가 있을까?")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)

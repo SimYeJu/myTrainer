@@ -1,10 +1,24 @@
+train (t-40x9muxiztkz3qkq5n5okzqyc) {
+  utterance (피티점프 동영상 좀)
+  last-modified (1572412924721)
+}
 train (t-4bq5kee1j2h52xv2gdenbeyow) {
   utterance ("[g:RoutineRecommendResults] (피곤)[v:RName]할 때 무슨 운동해")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
   last-modified (1572401986634)
 }
+train (t-4uwz1lf834i9wz1jb4n0ya9me) {
+  utterance ("[g:RoutineRecommend] (직장에서)[v:RName] 적합한 운동 알려줘")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1572410605306)
+}
 train (t-4xl2busx7oi0f3zr2l071hooe) {
   utterance ("[g:TrainingCountResults] (런지)[v:TName] 하고 싶어")
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572180322146)
+}
+train (t-4yjgdytri9w6su6o7cvhsa3gs) {
+  utterance ("[g:RoutineRecommend] (복근 운동)[v:RName]에 최고의 루틴 알려줘")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1572410615065)
 }

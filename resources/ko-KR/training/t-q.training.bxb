@@ -3,6 +3,11 @@ train (t-q6m9dbh9ki20pluxn7zwys7kk) {
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572402861089)
 }
+train (t-qbxkg9daoc2jwdv6y7mdgycoq) {
+  utterance ("[g:TrainingDescriptionResults] (피티 점프)[v:TName] 동영상 있어?")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572412913658)
+}
 train (t-ql0366bllfrdvhidk47iyj19b) {
   utterance ("[g:TrainingDescriptionResults] (런지)[v:TName]가 뭐야")
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)

@@ -3,6 +3,11 @@ train (t-yic16lbmzkmd9jwaz7cp5qxlh) {
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572408064363)
 }
+train (t-yn6m3ykio7xwgzfwllpsjrroq) {
+  utterance ("[g:RoutineRecommend] (복근)[v:RName] 만들 수 있는 운동 추천해줘")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1572410558563)
+}
 train (t-yvd3rsw9t77cifboi4jdb218l) {
   utterance ("[g:ten_friends.myTrainer.TrainingCountResults] (사이드 런지)[v:TName] 할래")
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)

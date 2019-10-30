@@ -1,3 +1,8 @@
+train (t-j378lsc9csk181hfjtay4nd7d) {
+  utterance ("[g:RoutineRecommend] (전신)[v:RName]에 좋은 루틴 추천해줘")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
+  last-modified (1572410589721)
+}
 train (t-joe8ypps8gi6q595tnyegs52p) {
   utterance ("[g:RoutineRecommendResults] (땀나는)[v:RName] 운동 할래")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)

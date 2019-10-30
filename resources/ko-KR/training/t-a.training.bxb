@@ -1,3 +1,13 @@
+train (t-am6gui3bk806axto7txcaiuor) {
+  utterance ("[g:TrainingCount] (런지)[v:TName] 시작하게 도와줘")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCED5AA==)
+  last-modified (1572410050042)
+}
+train (t-ap33pvgm1e2qskikbkw2htrti) {
+  utterance ("[g:TrainingDescription] 스쿼트 말고  (벤치 딥스)[v:TName] 알려줘")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCED5AA==)
+  last-modified (1572410386321)
+}
 train (t-auah3025gl1b9rj9hvod6ggor) {
   utterance ("[g:TrainingDescriptionResults] (런지)[v:TName] 알려줘")
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)

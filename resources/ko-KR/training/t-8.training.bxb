@@ -1,7 +1,17 @@
+train (t-8c4c4zrt2ebuyyw3icuqi4foe) {
+  utterance ("[g:TrainingDescription] (스쿼트)[v:TName] 운동 알려줄 수 있어?")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCED5AA==)
+  last-modified (1572410344753)
+}
 train (t-8sa7vnglxc5ic7vdq5jisoi9y) {
   utterance ("[g:ten_friends.myTrainer.TrainingCountResults] (플랭크)[v:ten_friends.myTrainer.TName] 세주라")
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572402978448)
+}
+train (t-8wg44lrkv1ghb151by5f3xgt7) {
+  utterance ("[g:TrainingCount] (런지)[v:TName] 카운팅 해줄 수 있어?")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCED5AA==)
+  last-modified (1572410033155)
 }
 train (t-8x4buxyt4noovhv2z692wfudt) {
   utterance ("[g:RoutineRecommendResults] (복근)[v:RName] 운동 알려줘")

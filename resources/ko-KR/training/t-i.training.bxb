@@ -3,13 +3,18 @@ train (t-ictbxxh13rtfufeu7enzxfjjx) {
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
   last-modified (1572252285180)
 }
+train (t-iine7bbix0pgxl4slgedalxb1) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescription] (윗몸 일으키기)[v:TName] 유튜브 링크 있어?")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCED5AA==)
+  last-modified (1572412738696)
+}
 train (t-ijqatdg9hwolj47qraqlmoftc) {
   utterance ("[g:RoutineRecommendResults] (아침)[v:RName]은 어떤 운동을 할까")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
   last-modified (1572407833458)
 }
 train (t-ivrltms9587kf5f2tj8tvjafj) {
-  utterance ("[g:ten_friends.myTrainer.RoutineRecommend] (서서할 수 있는)[v:ten_friends.myTrainer.RName] 운동 혹시 있어?")
+  utterance ("[g:RoutineRecommend] (서서할 수 있는)[v:RName] 운동 혹시 있어?")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
-  last-modified (1572253807426)
+  last-modified (1572410001081)
 }

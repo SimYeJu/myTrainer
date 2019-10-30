@@ -8,3 +8,8 @@ train (t-e6xhxbjmo8ej0vnvujg1p38jg) {
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572229213730)
 }
+train (t-emuvnbwtfnax1z1po835pj4iw) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (벤치 딥스)[v:ten_friends.myTrainer.TName] 어떻게 해야돼?")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572412542617)
+}

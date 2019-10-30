@@ -1,3 +1,8 @@
+train (t-cjy6cwpxlkhuowg4zwjbebbav) {
+  utterance ("[g:TrainingDescription] (스쿼트)[v:TName] 알고 있으면 보여줄 수 있어?")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCED5AA==)
+  last-modified (1572410336556)
+}
 train (t-ck2eq6ag22vfahravdu5mvnei) {
   utterance ("[g:TrainingCountResults] (스쿼트)[v:TName] 할래")
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
