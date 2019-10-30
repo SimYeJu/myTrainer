@@ -1,9 +1,8 @@
-module.exports.function = function trainingCount(tName, requireSet) {
+module.exports.function = function trainingCount(tName) {
 
   const console = require('console');
   const tData = require("./data/Training.js");
 
-  //requireSet의 유무에 따라 기존 perSet으로 카운트할지 require된 Set으로 카운트할지 정해야한다.
   var idx;
 
   if (tName == null) {
@@ -107,7 +106,6 @@ module.exports.function = function trainingCount(tName, requireSet) {
     day: day,
     kcal: cal,
     cnt: cnt,
-    requireSet: requireSet,
     countingNumber: tmp,
     speech: speech
   };

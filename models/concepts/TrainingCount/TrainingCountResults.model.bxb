@@ -4,7 +4,7 @@ structure (TrainingCountResults) {
 property (tName) {
     description ()
     type (TName)
-    min (Optional) max (One)
+    min (Required) max (One)
   }
   property (tNo) {
     description ()
@@ -44,6 +44,6 @@ property (tName) {
   property (speech){
     description ()
     type (Speech)
-    min (Optional) max (One)
+    min (Required) max (One)
   }
 }

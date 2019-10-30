@@ -1,0 +1,118 @@
+layout-macro-def(routine-detail-result) {
+	params {
+		param (trainingresult) {
+			type (RoutineRecommendResults)
+			min (Required) max (One)
+		}
+	}
+	
+	content {
+		layout {  // this macro returns a "layout"
+			section {
+				content {
+					
+					image {
+						url ("#{value(trainingresult.imgURL)}")
+					}
+					split-input-cell {
+						left {
+							input-cell {
+								label {
+									template ("운동 이름")
+								}								
+								value {
+									template ("#{value(trainingresult.tName)}")
+								}
+							}
+						}
+						right {
+							input-cell {
+								label {
+									template ("운동하러가기")
+								}
+								value {
+									template ("세트 카운트 시작")
+								}
+								on-click {
+									intent {
+											goal : TrainingCount
+											value : $expr(trainingresult.tName)
+									}
+								}
+							}
+						}
+					}
+					split-input-cell{
+						left{
+								input-cell {
+									label {
+										template ("추가 설명")
+									}
+									value {
+										template ("관련자료")
+									}
+									on-click {
+										intent {
+											goal: LaunchWeb
+											value :	$expr(trainingresult.refURL)
+											// value :	youtubeurl (trainingresult.refURL)
+										}
+									}
+								}
+						}
+						right{
+								input-cell {
+									label {
+										template ("관련 영상")
+									}
+									value {
+										template("유튜브 영상")
+									}
+									on-click {
+										intent {
+											goal: LaunchWeb
+											value : $expr(trainingresult.youtubeURL)
+											//value :	YoutubeURL (trainingresult.youtubeURL)
+										}
+									}
+								}
+						}
+					}
+					
+				}
+			}
+			section {
+				content {
+					
+					paragraph ("설명\n #{value(trainingresult.tDesc)}") {
+						style (Detail_L)
+					}
+					title-area {
+						slot2 {
+							single-line {
+								text {
+									value {
+										template ("주의 사항 : #{value(trainingresult.caution)}")
+									}
+									style (Detail_M_Soft)
+								}
+							}
+						}
+					}
+					input-cell {
+						label {
+							template ("운동 부위")
+						}
+						value {
+							template ("#{value(trainingresult.tPart)}")
+						}
+					}
+					paragraph ("시간당 소모 칼로리 : #{value(trainingresult.kcal)}") {
+						style (Detail_M_Soft)
+					}
+					
+				}
+			}
+		}
+	}
+}
