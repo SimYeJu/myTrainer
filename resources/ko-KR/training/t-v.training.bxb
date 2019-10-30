@@ -18,3 +18,8 @@ train (t-vhu7pfdu2yq6n3l35c1phxw1s) {
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572407985410)
 }
+train (t-vpcl3kd03fjww65ltfpuk5sip) {
+  utterance ("[g:RoutineRecommendResults] (허벅지)[v:RName] 운동 하고싶어")
+  plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1572421846254)
+}

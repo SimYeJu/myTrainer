@@ -27,4 +27,7 @@ capsule {
       as (core)
     }
   }
+  store-sections{
+    section (HealthAndFitness)
+  }
 }
