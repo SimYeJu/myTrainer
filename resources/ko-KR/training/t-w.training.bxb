@@ -3,10 +3,25 @@ train (t-w7pou0676xqxrf2iw5g6i1e5u) {
   plan (Y2Bm0CrISaxML8ovzUvRyy0tTs5JTU/MzNMLKQKSmXnpzkCJkqDU4tKckmIGZSLUMkjjUOSXmJvKwMTACMQMQJKRAQSYIBgA)
   last-modified (1571923259339)
 }
+train (t-wb2bvmjjkjfrcjupbl06on4mv) {
+  utterance ("[g:TrainingDescriptionResults] (오블리크 크런치)[v:TName] 그거 뭐지")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572418885948)
+}
 train (t-wcke3xl74bisipq8g5a118vdc) {
   utterance ("[g:TrainingDescriptionResults] (점핑잭)[v:TName] 알려줘")
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572218997621)
+}
+train (t-wdebyuiimxuh84hh55xo3sjxv) {
+  utterance ("[g:TrainingDescriptionResults] (사이드플랭크)[v:TName]로 할래")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572419271488)
+}
+train (t-wi1x7odlh67eqyt9gst2i18mc) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (브릿지)[v:ten_friends.myTrainer.TName] 정보 필요해")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572419558354)
 }
 train (t-wo4zsyn7ozd14os188xrp9a5r) {
   utterance ("[g:ten_friends.myTrainer.RoutineRecommendResults] (잠깨)[v:ten_friends.myTrainer.RName]려면 뭐해야돼?")

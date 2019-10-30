@@ -1,3 +1,8 @@
+train (t-s4hww086bg5ycis5gmpqskqxv) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (쇼트 피치)[v:ten_friends.myTrainer.TName] 있을까")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572419433222)
+}
 train (t-s9u9fz2fgc3nsq7ydoijfwbsy) {
   utterance ("[g:ten_friends.myTrainer.RoutineRecommendResults] (침대에서 하기)[v:ten_friends.myTrainer.RName] 좋은 운동좀 알려줘")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)

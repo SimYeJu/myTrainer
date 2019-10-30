@@ -8,6 +8,11 @@ train (t-k7ebpgswrx51204sk3deib5so) {
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
   last-modified (1572252675953)
 }
+train (t-kbb36ph0tsfnlue265afda8j8) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (사이드 플랭크)[v:ten_friends.myTrainer.TName] 있나 봐봐")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572419328094)
+}
 train (t-ke20gtzsd4aiaz8nhipv84ltg) {
   utterance ("[g:ten_friends.myTrainer.TrainingDescription] (가벼운 유산소 운동)[v:ten_friends.myTrainer.TName] 어떻게 하는건지 가르쳐줘")
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCED5AA==)

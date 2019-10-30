@@ -23,3 +23,8 @@ train (t-3x56f2f1no0m9nqgr963dby17) {
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
   last-modified (1572413961043)
 }
+train (t-3ywbhwjx9abe9y8h5w0ybmcm5) {
+  utterance ("[g:TrainingCountResults] (와이드 스쿼트)[v:ten_friends.myTrainer.TName] 도와주세요")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572419472127)
+}

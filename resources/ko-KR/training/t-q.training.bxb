@@ -3,6 +3,16 @@ train (t-q6m9dbh9ki20pluxn7zwys7kk) {
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572402861089)
 }
+train (t-q75q4u9b96jbkwo64cg6dny77) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (스탠딩힙어브덕션)[v:ten_friends.myTrainer.TName] 있잖아 그거")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572419402682)
+}
+train (t-q8ki9q3x24g0xed12hlyoy5vf) {
+  utterance ("[g:TrainingDescriptionResults] (라잉 힙 어브덕션)[v:ten_friends.myTrainer.TName] 설명 고고")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572419359559)
+}
 train (t-qbxkg9daoc2jwdv6y7mdgycoq) {
   utterance ("[g:TrainingDescriptionResults] (피티 점프)[v:TName] 동영상 있어?")
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)

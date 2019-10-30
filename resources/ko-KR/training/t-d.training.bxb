@@ -3,6 +3,11 @@ train (t-d3qlybjg31zedr3renjuvo3pe) {
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572413599146)
 }
+train (t-dcz8ob1mawhihj6rg472rlxn9) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (오블리크 크런치)[v:ten_friends.myTrainer.TName] 있나 볼래")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572418902819)
+}
 train (t-ddtuathktk06gcisf8oyidz8u) {
   utterance ("[g:ten_friends.myTrainer.RoutineRecommendResults] (하체운동)[v:ten_friends.myTrainer.RName] 하려면 뭐해야돼")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
@@ -12,6 +17,11 @@ train (t-deejbd190ihcsdnpod19ol5j7) {
   utterance ("[g:TrainingCountResults] (런지)[v:TName] 카운팅해줘")
   plan (Y2Bm0CrISaxML8ovzUvRyy0tTs5JTU/MzNMLKQKSmXnpzkCJkqDU4tKckmIGZSLUMkjjUOSXmJvKwMTACMQMQJKRAQSYIBgA)
   last-modified (1571923226589)
+}
+train (t-dw4koh9ib5czim9h40iqqbtrp) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (브릿지)[v:ten_friends.myTrainer.TName] 필요해")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572419550755)
 }
 train (t-dzhkqz628b5i9ndqvysuaydej) {
   utterance ("[g:TrainingCountResults] (플랭크)[v:TName] 시간 재어줘")

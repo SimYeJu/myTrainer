@@ -3,6 +3,11 @@ train (t-t3r3ata2zatn1y9ztlr4lfu8o) {
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572408192194)
 }
+train (t-t9mgzvxkwjid6177ojsrl0nvq) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (와이드스쿼트)[v:ten_friends.myTrainer.TName] 검색좀")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572419311665)
+}
 train (t-teo5zjrl5jxcciy5mn3b9x4tg) {
   utterance ("[g:TrainingDescriptionResults] (크런치)[v:TName] 하는법 있어?")
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)

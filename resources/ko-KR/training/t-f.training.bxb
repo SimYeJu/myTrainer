@@ -8,6 +8,11 @@ train (t-fj38wedvev3ocexpuyrshjrak) {
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572408097026)
 }
+train (t-fwx3ror15z80di0he5gcwe9kd) {
+  utterance ("[g:TrainingCountResults] (사이드 런지)[v:TName] 도와줄래")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572419535811)
+}
 train (t-fz9apf60pu8kebpqxrb59y395) {
   utterance ("[g:RoutineRecommendResults] (복근)[v:RName] 운동 알려줘")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)

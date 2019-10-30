@@ -3,6 +3,11 @@ train (t-l3u672p3z327xvl3oilapfxyg) {
   plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572416694892)
 }
+train (t-li6i9kmd82mooer8sag649cgf) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (사이드 런지)[v:ten_friends.myTrainer.TName] 필요해")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572419422803)
+}
 train (t-louy2n01vwfe0cefrz9d36vbs) {
   utterance ("[g:ten_friends.myTrainer.TrainingDescription] (피티점프)[v:TName] 동영상좀")
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCED5AA==)

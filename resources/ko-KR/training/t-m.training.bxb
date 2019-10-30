@@ -3,6 +3,11 @@ train (t-m1yffiug5k1lj6kw4dffwkpk7) {
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCED5AA==)
   last-modified (1572410318602)
 }
+train (t-mjgrd0194tjsxjz9d2pz05at6) {
+  utterance ("[g:TrainingCountResults] (스쿼트)[v:TName] 도와줘")
+  plan (Y2Bm0CpJzYtPK8pMzUsp1sutDClKzMxLLdID05l56c75pXklQanFpTklxQzKRKhlkMahyC8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572419457902)
+}
 train (t-mq1mre8v7374hfqy6cnq7t8wm) {
   utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (오블리크 크런치)[v:ten_friends.myTrainer.TName] 하는 법 있니?")
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)

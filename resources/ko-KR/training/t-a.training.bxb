@@ -18,3 +18,8 @@ train (t-auah3025gl1b9rj9hvod6ggor) {
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572399439287)
 }
+train (t-av1spphpdueatccnha8m0ng85) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (쇼트 피치)[v:ten_friends.myTrainer.TName] 해야겠다")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572419337378)
+}

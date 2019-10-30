@@ -8,3 +8,13 @@ train (t-hlzohrikyzp5mj4gy43msfdx8) {
   plan (Y2BmMCjISaxML8ovzUvRyy0tTs5JTU/MzNMLKQKSmXnpLqnFyUWZBSWZ+XlBqcWlOSXFDJpE62CQxqHULzE3lYGJgRGIGYAkIwMIQPkA)
   last-modified (1571923265167)
 }
+train (t-hrq6qc61evgimst27kt3mt5ij) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (쇼트 피치)[v:ten_friends.myTrainer.TName] 설명 줘봐")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572419344690)
+}
+train (t-hv2doi2y2956cciyi3htc5ccr) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (사이드 플랭크)[v:ten_friends.myTrainer.TName] 검색좀")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572419327018)
+}

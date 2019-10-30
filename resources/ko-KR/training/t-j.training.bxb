@@ -3,6 +3,11 @@ train (t-j378lsc9csk181hfjtay4nd7d) {
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
   last-modified (1572410589721)
 }
+train (t-j9uulg3tlksh8xk9zqh25ww2a) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (스쿼트 점핑잭)[v:ten_friends.myTrainer.TName] 검색해줘")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572418722984)
+}
 train (t-joe8ypps8gi6q595tnyegs52p) {
   utterance ("[g:RoutineRecommendResults] (땀나는)[v:RName] 운동 할래")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)

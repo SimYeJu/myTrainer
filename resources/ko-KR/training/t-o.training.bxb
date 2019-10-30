@@ -3,6 +3,11 @@ train (t-o8sdag3yxl59fgr54vyvy1bf6) {
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
   last-modified (1572259333686)
 }
+train (t-oft0fcgu5p34cy5i1qjy1e7q6) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (쇼트 피치)[v:ten_friends.myTrainer.TName] 설명 보여줘")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572418911497)
+}
 train (t-omg20t9h6uyccm8u5ytqd3yor) {
   utterance ("[g:ten_friends.myTrainer.RoutineRecommendResults] (복근)[v:ten_friends.myTrainer.RName]생기는 운동 뭐 할까?")
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwgwQTAA)
