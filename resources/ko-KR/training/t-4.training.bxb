@@ -1,6 +1,7 @@
 train (t-40x9muxiztkz3qkq5n5okzqyc) {
-  utterance (피티점프 동영상 좀)
-  last-modified (1572412924721)
+  utterance ("[g:TrainingDescriptionResults] (피티점프)[v:TName] 동영상 좀")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572413117346)
 }
 train (t-4bq5kee1j2h52xv2gdenbeyow) {
   utterance ("[g:RoutineRecommendResults] (피곤)[v:RName]할 때 무슨 운동해")

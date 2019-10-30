@@ -1,3 +1,8 @@
+train (t-f7xhwaslmntp2fft05inw53z5) {
+  utterance ("[g:TrainingDescriptionResults] (스쿼트)[v:TName] 하는법좀")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572413225781)
+}
 train (t-fj38wedvev3ocexpuyrshjrak) {
   utterance ("[g:TrainingDescriptionResults] (플랭크)[v:TName] 자세 자세히 알고 싶어")
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)

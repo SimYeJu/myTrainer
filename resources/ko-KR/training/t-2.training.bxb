@@ -3,3 +3,8 @@ train (t-2jpmicujefwhyelbjaewj4jid) {
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
   last-modified (1572408002539)
 }
+train (t-2lkwz7fgn1m1vf1whnu2tqgb6) {
+  utterance ("[g:TrainingDescriptionResults] (버피)[v:TName] 하는법 좀")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572413154917)
+}
