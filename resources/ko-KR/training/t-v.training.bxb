@@ -3,6 +3,11 @@ train (t-vdisjfw9ushg9d8l5swn93wh8) {
   plan (Y2Bm0C1JzYtPK8pMzUsp1sutDClKzMxLLdILyi8tATKCUpPzc3OBckGpxaU5JcUMasQpZ5DGoc4vMTeVgYmBEYgZgCQjAwhA+QA=)
   last-modified (1572410581161)
 }
+train (t-vht3264t5cba63d9a58srk9e7) {
+  utterance ("[g:ten_friends.myTrainer.TrainingDescriptionResults] (플랭크)[v:ten_friends.myTrainer.TName] 하는 법좀")
+  plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
+  last-modified (1572413402144)
+}
 train (t-vhu7pfdu2yq6n3l35c1phxw1s) {
   utterance ("[g:TrainingDescriptionResults] (라잉)[v:TName] 정보 알려줄래")
   plan (Y2BmMChJzYtPK8pMzUsp1sutDClKzMxLLdID05l56S6pxclFmQUlmfl5QanFpTklxQyaROtgkMah1C8xN5WBiYERiBmAJCMDCDBBMAA=)
